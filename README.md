@@ -10,7 +10,7 @@
 
 ### whoami
 
-Abhijeet, alias **nyxragon**. I didn’t set out to do security—it just stuck. I like breaking things and turning that into better defenses. I’m into **security automation**, **AI/LLM in security**, and turning research into tools. Also tech, sci-fi, and cyber. Say hi if that resonates.
+Abhijeet, **nyxragon**. I research security, automate the boring parts, and push AI into the pipeline. Breaking systems to harden them—and turning that into tools and defenses that stick. EASM, red teaming, and "break it before they do" are where I spend most of my time. Tech, sci-fi, and cyber nerd. Drop a message if you want to talk.
 
 ---
 
