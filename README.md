@@ -1,110 +1,80 @@
-<!--
-**Abhi-1712/Abhi-1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=520&lines=Security+Researcher;2%C3%97+CVE+%7C+VS+Code+Extension;Triage+%40+HackerOne;Speaker+%7C+BSides+%7C+OWASP;Break+things+to+build+better+defenses" alt="Typing SVG" />
+</p>
 
 <p align="center">
-
-<img src="https://user-images.githubusercontent.com/88927842/224619942-13d4c255-ecf5-437d-aef4-ff325c355211.gif"  width="498" height="280"  />
-
-
+  <strong>Triage Intake Analyst @ HackerOne</strong> · Security researcher · 2× CVE · Speaker (BSides, OWASP) · ISO 27001 Lead Auditor
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center"> ⚡Greetings Citizens of the World 🌎</h2>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+---
 
-<h3 align=center><b><ins>Who am I? (Still figuring that out)</ins>🙃</b></h3>
-<p>
-Abhijeet, alias aragon this side. Hacking was never something I thought I'd be doing, but here I am. I'm a serious daydreamer, often lost in my own thoughts and not fully present in the moment. But when night falls, my hacker persona takes over.<br/>
+### whoami
 
-My targets are private organizations, governments, and universities. What started as a fun pastime has become an addiction for me. I've discovered that I'm better at breaking things than building them, and hacking satisfies my craving for excitement and challenge.<br/>
+Abhijeet, alias **nyxragon**. Hacking was never something I thought I'd be doing—but here I am. By day I triage bug bounty reports at HackerOne; by night the hacker persona takes over. I'm better at breaking things than building them, and I use that to design defenses that actually hold.
 
-I work as a security researcher, dedicating most of my time to studying complex systems and designing security solutions. I love to talk about tech, science fiction, cyber warfare, and various mind-boggling conspiracy theories. If you share similar interests, feel free to contact me.<br/>
+I've worked on **AI red teaming**, **EASM/ASM** platforms, and built the PII Discovery Layer for **PIIScout** (showcased at **Black Hat MEA Arsenal**). I care about AI/LLM in security and turning research into tools. I love talking about tech, sci-fi, and cyber. If that sounds like you, say hi.
 
-</p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
+### arsenal
+
+| **Security** | **Build** |
+|--------------|-----------|
+| Web & Network Penetration Testing | Python · Go · Bash |
+| AI Red Teaming · EASM/ASM | Docker · FastAPI |
+| OSINT · Cryptography | |
 
 <p align="center">
-<h3 align="center"><b><ins>Arsenal</ins>⚔️</b></h3>
+  <img src="https://skill-icons.dev/icons?i=python,go,bash,docker,linux&theme=dark" alt="Tech stack" />
 </p>
-<table align="center">
-    <tr>
-      <td>⚡Web Application Penetration Testing</td>
-      <td>⚡Network Penetration Testing</td>
-    </tr>
-    <tr>
-      <td>⚡Open Source Intelligence Investigation</td>
-      <td>⚡Social Engineering ❤</td>
-    </tr>
-    <tr>
-      <td>⚡Cryptography</td>
-      <td>⚡Python</td>
-    </tr>
-    <tr>
-      <td>⚡Golang</td>
-      <td>⚡Bash</td>
-    </tr>
-  </table>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
-<h3 align=center>
-<b><ins>Fake World Connection</ins>🤝</b>
-</h3>
+### highlights
 
-<table align=center>
+- **2× CVE** — CVE-2024-7739 & CVE-2024-7738 in Yzane PDF (VS Code, 2.2M+ downloads)
+- **Hall of Fame** — UN, Cambridge, Indian Govt, Philips, Deutsche Telekom, Nykaa, Touch Bistro, others
+- **Getsethack** — 7th / 22,000 participants
+- **Speaker** — BSides Pune, OWASP Noida, PICT College
 
-<tr>
-<td align=center>Discord</td>
-<td align=center>Twitter</td>
-<td align=center>Linkedin</td>
-</tr>
-<tr>
-<td ><a href="https://discordapp.com/users/821296505817530368"><img src="https://user-images.githubusercontent.com/88927842/226312989-35c6e2ee-33b2-4749-be31-91f2d910e264.png" % height=80px width=110px alt="discord"/></a></td>
+### certs
 
-<td><a href="https://twitter.com/_arag0n"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea5586b2-5c3b-410a-ab94-c63856607a4f/d46665n-25928415-819a-409c-9417-cb48794d558a.png/v1/fill/w_894,h_894,q_75,strp/angry_twitter_bird_by_ryujin2490-d46665n.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lYTU1ODZiMi01YzNiLTQxMGEtYWI5NC1jNjM4NTY2MDdhNGYvZDQ2NjY1bi0yNTkyODQxNS04MTlhLTQwOWMtOTQxNy1jYjQ4Nzk0ZDU1OGEucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.w4Jmyol2ZG1DvprY-UjIWSyjO9Qqcj3WaE-vJ3NJySg" height=80px width=110px  alt="twitter"/></a>
-</td>
+- **ISO/IEC 27001 Lead Auditor** — ISMS auditing
+- **eJPT v2** — eLearnSecurity Junior Penetration Tester
 
-<td><a href="https://www.linkedin.com/in/abhijeetingle1712/"><img src="https://www.nicepng.com/png/detail/24-243809_discover-what-linkedin-can-do-for-your-local.png" height=80px  width=110px alt="linkedin"/></a>
-</td>
-</tr>
-</table>
+---
 
+### stats
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite&hide_border=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub stats light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true#gh-dark-mode-only" width="48%" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true#gh-light-mode-only" width="48%" alt="Streak stats light" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8#gh-dark-mode-only" width="48%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite&hide_border=true&langs_count=8#gh-light-mode-only" width="48%" alt="Top languages light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true#gh-dark-mode-only" width="98%" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true#gh-light-mode-only" width="98%" alt="Activity graph light" />
+</p>
 
-<h3 align="center"><b><ins> This looks cool right? </ins>👀</b></h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution snake dark" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contribution snake" />
+</p>
 
-<br/>
+---
 
-<table border="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-ingle&layout=compact&icons=true&theme=radical" alt="Top Langs"></td>
-    <td><img widht:30% src="https://github-readme-stats.vercel.app/api?username=abhi-ingle&show_icons=true&theme=radical" alt="Abhijeet's GitHub stats"></td>
-  </tr>
-</table>
+### connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nyxragon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/_arag0n"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://discordapp.com/users/821296505817530368"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-<br/>
-<br/>
-  
-[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi-ingle&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
-
-<br/>
-
+<p align="center">
+  <sub>Replace <code>YOUR_GITHUB_USERNAME</code> in this README with your GitHub username so stats and snake point to your profile.</sub>
+</p>
