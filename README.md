@@ -47,22 +47,22 @@ I've worked on **AI red teaming**, **EASM/ASM** platforms, and built the PII Dis
 ### stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite&hide_border=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub stats light" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true#gh-dark-mode-only" width="48%" alt="Streak stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true#gh-light-mode-only" width="48%" alt="Streak stats light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=graywhite&hide_border=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub stats light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxragon&theme=tokyonight&hide_border=true#gh-dark-mode-only" width="48%" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxragon&theme=default&hide_border=true#gh-light-mode-only" width="48%" alt="Streak stats light" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8#gh-dark-mode-only" width="48%" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite&hide_border=true&langs_count=8#gh-light-mode-only" width="48%" alt="Top languages light" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true#gh-dark-mode-only" width="98%" alt="Activity graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true#gh-light-mode-only" width="98%" alt="Activity graph light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8#gh-dark-mode-only" width="48%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&theme=graywhite&hide_border=true&langs_count=8#gh-light-mode-only" width="48%" alt="Top languages light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=react-dark&hide_border=true#gh-dark-mode-only" width="98%" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=minimal&hide_border=true#gh-light-mode-only" width="98%" alt="Activity graph light" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution snake dark" />
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution snake dark" />
+  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contribution snake" />
 </p>
 
 ---
@@ -73,8 +73,4 @@ I've worked on **AI red teaming**, **EASM/ASM** platforms, and built the PII Dis
   <a href="https://www.linkedin.com/in/nyxragon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/_arag0n"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://discordapp.com/users/821296505817530368"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
-<p align="center">
-  <sub>Replace <code>YOUR_GITHUB_USERNAME</code> in this README with your GitHub username so stats and snake point to your profile.</sub>
 </p>
