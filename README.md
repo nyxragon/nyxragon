@@ -1,25 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=520&lines=Security+Researcher;2%C3%97+CVE+%7C+VS+Code+Extension;Triage+%40+HackerOne;Speaker+%7C+BSides+%7C+OWASP;Break+things+to+build+better+defenses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=520&lines=Security+Researcher;Security+automation;AI+security;Break+things+to+build+better+defenses" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Triage Intake Analyst @ HackerOne</strong> · Security researcher · 2× CVE · Speaker (BSides, OWASP) · ISO 27001 Lead Auditor
+  <strong>Abhijeet</strong> · security researcher · automation & AI in security
 </p>
 
 ---
 
 ### whoami
 
-Abhijeet, alias **nyxragon**. Hacking was never something I thought I'd be doing—but here I am. By day I triage bug bounty reports at HackerOne; by night the hacker persona takes over. I'm better at breaking things than building them, and I use that to design defenses that actually hold.
-
-I've worked on **AI red teaming**, **EASM/ASM** platforms, and built the PII Discovery Layer for **PIIScout** (showcased at **Black Hat MEA Arsenal**). I care about AI/LLM in security and turning research into tools. I love talking about tech, sci-fi, and cyber. If that sounds like you, say hi.
+Abhijeet, alias **nyxragon**. I didn’t set out to do security—it just stuck. I like breaking things and turning that into better defenses. I’m into **security automation**, **AI/LLM in security**, and turning research into tools. Also tech, sci-fi, and cyber. Say hi if that resonates.
 
 ---
 
 ### arsenal
 
 | **Security** | **Build** |
-|--------------|-----------|
+| ------------ | --------- |
 | Web & Network Penetration Testing | Python · Go · Bash |
 | AI Red Teaming · EASM/ASM | Docker · FastAPI |
 | OSINT · Cryptography | |
@@ -32,10 +30,29 @@ I've worked on **AI red teaming**, **EASM/ASM** platforms, and built the PII Dis
 
 ### highlights
 
+- **Abhijeet** (nyxragon)
+- **Security researcher**
+- **Security automation**
+- **AI security**
+
+---
+
+### work
+
+| **Role** | **Where** | **When** |
+| -------- | --------- | -------- |
+| Triage Intake Analyst | [HackerOne](https://www.hackerone.com) | Mar 2025 – Present |
+
+---
+
+### recognition
+
 - **2× CVE** — CVE-2024-7739 & CVE-2024-7738 in Yzane PDF (VS Code, 2.2M+ downloads)
+- **Speaker** — BSides Pune, OWASP Noida, PICT College
 - **Hall of Fame** — UN, Cambridge, Indian Govt, Philips, Deutsche Telekom, Nykaa, Touch Bistro, others
 - **Getsethack** — 7th / 22,000 participants
-- **Speaker** — BSides Pune, OWASP Noida, PICT College
+
+---
 
 ### certs
 
@@ -47,22 +64,17 @@ I've worked on **AI red teaming**, **EASM/ASM** platforms, and built the PII Dis
 ### stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=graywhite&hide_border=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub stats light" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxragon&theme=tokyonight&hide_border=true#gh-dark-mode-only" width="48%" alt="Streak stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxragon&theme=default&hide_border=true#gh-light-mode-only" width="48%" alt="Streak stats light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxragon&theme=tokyonight&hide_border=true" width="48%" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8#gh-dark-mode-only" width="48%" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&theme=graywhite&hide_border=true&langs_count=8#gh-light-mode-only" width="48%" alt="Top languages light" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=react-dark&hide_border=true#gh-dark-mode-only" width="98%" alt="Activity graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=minimal&hide_border=true#gh-light-mode-only" width="98%" alt="Activity graph light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=react-dark&hide_border=true" width="48%" alt="Activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution snake dark" />
-  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 </p>
 
 ---
