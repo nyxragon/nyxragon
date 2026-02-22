@@ -18,7 +18,7 @@
 <table>
 <tr>
 <td width="55%"><img src="assets/whoami-section.svg" width="100%" alt="Whoami" /></td>
-<td width="45%"><img src="assets/whoami-anim.svg" width="100%" alt="Tech" /></td>
+<td width="45%"><img src="assets/whoami-terminal.svg" width="100%" alt="Terminal whoami" /></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@
 <table>
 <tr>
 <td width="55%"><img src="assets/work-section.svg" width="100%" alt="Experience" /></td>
-<td width="45%"><img src="assets/work-anim.svg" width="100%" alt="Companies" /></td>
+<td width="45%"><img src="assets/experience-terminal.svg" width="100%" alt="Terminal cat experience" /></td>
 </tr>
 </table>
 
@@ -53,6 +53,10 @@
 
 ## ▸ Currently Working On
 
+<table>
+<tr>
+<td width="55%">
+
 - researching AI abuse cases  
 - building small offensive tools  
 - exploring attack surfaces  
@@ -60,6 +64,11 @@
 - automating security workflows  
 
 > **Want to know more about me?** → [Resume](#)
+
+</td>
+<td width="45%"><img src="assets/focus-terminal.svg" width="100%" alt="Terminal cat focus" /></td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
