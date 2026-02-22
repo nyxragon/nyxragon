@@ -35,11 +35,7 @@ Automate the defense.
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyxragon/nyxragon/output-pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyxragon/nyxragon/output-pacman/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nyxragon/nyxragon/output-pacman/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
@@ -161,10 +157,6 @@ CVE-2024-7739 · CVE-2024-7738
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=react-dark&hide_border=true" width="48%" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
