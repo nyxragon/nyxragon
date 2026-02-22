@@ -1,67 +1,130 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=520&lines=Security+Researcher;Security+automation;AI+security;Break+things+to+build+better+defenses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Explorer;Automation+in+Security;break+→+build+→+repeat" />
+</p>
+
+<h2 align="center">Abhijeet Ingle · nyxragon</h2>
+
+<p align="center">
+  offensive security · AI security · automation · ASM
 </p>
 
 <p align="center">
-  <strong>Abhijeet</strong> · security researcher · automation & AI in security
+  <img src="https://komarev.com/ghpvc/?username=nyxragon&color=7EE787&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-### whoami
+## whoami
 
-Abhijeet, **nyxragon**. I research security, automate the boring parts, and push AI into the pipeline. Breaking systems to harden them—and turning that into tools and defenses that stick. EASM, red teaming, and "break it before they do" are where I spend most of my time. Tech, sci-fi, and cyber nerd. Drop a message if you want to talk.
+`nyxragon` — security researcher focused on breaking modern systems and rebuilding them stronger.
+
+I work at the intersection of:
+
+- AI Red Teaming & LLM security  
+- Attack Surface Management (ASM / EASM)  
+- Web & network exploitation  
+- Detection engineering  
+- Security automation  
+
+I like pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling.
+
+Break things.  
+Understand them.  
+Automate the defense.
 
 ---
 
-### arsenal
-
-| **Security** | **Build** |
-| ------------ | --------- |
-| Web & Network Penetration Testing | Python · Go · Bash |
-| AI Red Teaming · EASM/ASM | Docker · FastAPI |
-| OSINT · Cryptography | |
+## stack
 
 <p align="center">
-  <img src="https://skill-icons.dev/icons?i=python,go,bash,docker,linux&theme=dark" alt="Tech stack" />
+  <img src="https://skill-icons.dev/icons?i=python,go,bash,docker,linux,fastapi,git&theme=dark" />
 </p>
 
 ---
 
-### highlights
+## now
 
-- **Abhijeet** (nyxragon)
-- **Security researcher**
-- **Security automation**
-- **AI security**
-
----
-
-### work
-
-| **Role** | **Where** | **When** |
-| -------- | --------- | -------- |
-| Triage Intake Analyst | [HackerOne](https://www.hackerone.com) | Mar 2025 – Present |
+- researching AI abuse cases  
+- building small offensive tools  
+- exploring attack surfaces  
+- automating security workflows  
 
 ---
 
-### recognition
+## work
 
-- **2× CVE** — CVE-2024-7739 & CVE-2024-7738 in Yzane PDF (VS Code, 2.2M+ downloads)
-- **Speaker** — BSides Pune, OWASP Noida, PICT College
-- **Hall of Fame** — UN, Cambridge, Indian Govt, Philips, Deutsche Telekom, Nykaa, Touch Bistro, others
-- **Getsethack** — 7th / 22,000 participants
+<table>
+<tr>
+<td width="50%">
+
+**[HackerOne](https://www.hackerone.com)** · <code>Remote</code>  
+**Triage Intake Analyst** · Mar 2025 — Present  
+<sub>Intake & triage for bug bounty programs · vulnerability validation · researcher–program coordination</sub>
+
+</td>
+<td width="50%">
+
+**[ZERON](https://www.linkedin.com/company/securezeron)** · <code>Mumbai</code>  
+**R&D Associate** · Jul 2024 – Jan 2025  
+<sub>AI red teaming · PII Discovery (PIIScout @ Black Hat MEA Arsenal) · ASM tools · in-house LLM</sub>  
+
+**Security Researcher Intern** · Aug 2023 – Jul 2024  
+<sub>Detection features for ASM · web & external network pentests</sub>  
+
+**Intern** · Apr 2023 – Jul 2023  
+<sub>Web & external network pentests · technical content</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Securityium](https://www.linkedin.com/company/securityium)** · <code>Pune</code>  
+**Cybersecurity Intern** · Jan 2023 – Apr 2023  
+<sub>Web & network pentests · pentest lab setup · automation (FastAPI, Python, Bash, Docker)</sub>
+
+</td>
+<td width="50%">
+
+**[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
+**Cybersecurity Engineer Intern** · May 2022 – Jul 2022  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### certs
+## recognition
 
-- **ISO/IEC 27001 Lead Auditor** — ISMS auditing
-- **eJPT v2** — eLearnSecurity Junior Penetration Tester
+<p align="center">
+  <img src="https://img.shields.io/badge/2×_CVE-CVE--2024--7739_|_CVE--2024--7738-7EE787?style=flat-square" alt="CVE" />
+  <img src="https://img.shields.io/badge/Speaker-BSides_·_OWASP_·_PICT-7EE787?style=flat-square" alt="Speaker" />
+  <img src="https://img.shields.io/badge/Getsethack-7th_/_22k-7EE787?style=flat-square" alt="Getsethack" />
+</p>
+
+- **Hall of Fame** — UN, Cambridge, Indian Govt, Philips, Deutsche Telekom, Nykaa, Touch Bistro, others  
+- **INSPIRE Scholarship** — DST, Govt of India (top 1% · Class XII)  
+- **HSC 2020** — 1st rank Vivekanand College · State subject topper, Mathematics (100/100)  
+
+<details>
+<summary><b>2× CVE</b> — Yzane PDF (VS Code, 2.2M+ downloads)</summary>
+
+CVE-2024-7739 · CVE-2024-7738
+</details>
 
 ---
 
-### stats
+## certs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-7EE787?style=flat-square" alt="ISO 27001" />
+  <img src="https://img.shields.io/badge/eJPT_v2-Junior_Pentester-7EE787?style=flat-square" alt="eJPT" />
+</p>
+
+---
+
+## stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
@@ -79,10 +142,24 @@ Abhijeet, **nyxragon**. I research security, automate the boring parts, and push
 
 ---
 
-### connect
+## quote
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nyxragon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/_arag0n"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://discordapp.com/users/821296505817530368"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random quote" />
+</p>
+
+---
+
+## connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nyxragon/">
+    <img src="https://img.shields.io/badge/LinkedIn-nyxragon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/nyxragon">
+    <img src="https://img.shields.io/badge/X-nyxragon-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/821296505817530368">
+    <img src="https://img.shields.io/badge/Discord-nyxragon-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
