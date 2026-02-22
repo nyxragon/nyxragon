@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Explorer;Automation+in+Security;break+→+build+→+repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Explorer;Automation+in+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Abhijeet Ingle · nyxragon</h2>
