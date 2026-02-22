@@ -13,40 +13,24 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## [CASE FILE]
+## ▸ Whoami
 
-<p align="center">
-  <img src="assets/crime-thread-card.svg" width="100%" alt="Case file — nyxragon crime thread board" />
-</p>
+`nyxragon` — security researcher focused on breaking modern systems and rebuilding them stronger.
 
-<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
+I work at the intersection of:
 
-## [SUBJECT]
+- AI Red Teaming & LLM security  
+- Attack Surface Management (ASM / EASM)  
+- Cloud security  
+- Web & network exploitation  
+- Detection engineering  
+- Security automation  
 
-```ts
-const whoami = {
-  handle: "nyxragon",
-  role: "security researcher",
-  tagline: "breaking modern systems and rebuilding them stronger",
+I like pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling.
 
-  intersection: [
-    "AI Red Teaming & LLM security",
-    "Attack Surface Management (ASM / EASM)",
-    "Cloud security",
-    "Web & network exploitation",
-    "Detection engineering",
-    "Security automation",
-  ],
-
-  like: "Pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling.",
-
-  mantra: [
-    "Break things.",
-    "Understand them.",
-    "Automate the defense.",
-  ],
-};
-```
+Break things.  
+Understand them.  
+Automate the defense.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
@@ -58,61 +42,45 @@ const whoami = {
   </picture>
 </p>
 
-## [ASSESSED CAPABILITIES]
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,ai,python,go,bash,fastapi,git&theme=dark" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## [KNOWN ASSOCIATIONS]
+## ▸ Work
 
-### 🧾 [HackerOne](https://www.hackerone.com) — Triage Intake Analyst
-**`Mar 2025 — Present`**  
-`bug bounty` · `triage` · `validation`
+**[HackerOne](https://www.hackerone.com)**  
+Triage Intake Analyst — `Mar 2025 — Present`  
+`bug bounty` `triage` `validation`
 
-> `Case note:` Bug bounty triage, validation, intake.
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=8&section=footer" width="100%" alt="" />
+**[ZERON](https://www.linkedin.com/company/securezeron)**  
+R&D Associate — `Jul 2024 – Jan 2025`  
+`AI integrations` `ASM` `offsec tools`
 
-### 🧾 [ZERON](https://www.linkedin.com/company/securezeron) — R&D Associate
-**`Jul 2024 – Jan 2025`**  
-`AI integrations` · `ASM` · `offsec tools`
+Security Researcher Intern — `Aug 2023 – Jul 2024`  
+`ASM detection` `pentesting`
 
-PII Discovery (PIIScout) — showcased at Black Hat MEA Arsenal.
+Intern — `Apr 2023 – Jul 2023`  
+`pentesting` `technical content`
 
-> `Case note:` Built PII detection & fine-tuned org LLM.
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=8&section=footer" width="100%" alt="" />
+**[Securityium](https://www.linkedin.com/company/securityium)**  
+Cybersecurity Intern — `Jan 2023 – Apr 2023`  
+`pentesting` `lab setup` `automation`
 
-### 🧾 [ZERON](https://www.linkedin.com/company/securezeron) — Security Researcher Intern
-**`Aug 2023 – Jul 2024`**  
-`ASM detection` · `pentesting`
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=8&section=footer" width="100%" alt="" />
-
-### 🧾 [ZERON](https://www.linkedin.com/company/securezeron) — Intern
-**`Apr 2023 – Jul 2023`**  
-`pentesting` · `technical content`
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=8&section=footer" width="100%" alt="" />
-
-### 🧾 [Securityium](https://www.linkedin.com/company/securityium) — Cybersecurity Intern
-**`Jan 2023 – Apr 2023`**  
-`pentesting` · `lab setup` · `automation`
-
-> `Case note:` Lab setup, automation, pentesting.
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=8&section=footer" width="100%" alt="" />
-
-### 🧾 [Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing) — Cybersecurity Engineer Intern
-**`May 2022 – Jul 2022`**  
+**[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
+Cybersecurity Engineer Intern — `May 2022 – Jul 2022`  
 `security engineering`
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## [CURRENT FOCUS]
+## ▸ Currently Working On
 
 - researching AI abuse cases  
 - building small offensive tools  
@@ -124,7 +92,7 @@ PII Discovery (PIIScout) — showcased at Black Hat MEA Arsenal.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## [DIGITAL FOOTPRINT]
+## ▸ Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
@@ -138,7 +106,7 @@ PII Discovery (PIIScout) — showcased at Black Hat MEA Arsenal.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## [ARTIFACT]
+## ▸ Quote
 
 <p align="center">
   <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random quote" />
@@ -146,7 +114,7 @@ PII Discovery (PIIScout) — showcased at Black Hat MEA Arsenal.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## [CONTACT]
+## ▸ Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nyxragon/">

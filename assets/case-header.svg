@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 38" width="360" height="38" role="img" aria-label="whoami case file">
-  <defs>
-    <linearGradient id="caseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8A2BE2"/>
-      <stop offset="100%" stop-color="#00F5FF"/>
-    </linearGradient>
-  </defs>
-  <text x="0" y="24" fill="url(#caseGrad)" font-family="ui-monospace, SFMono-Regular, monospace" font-size="20" font-weight="600">? whoami - case file</text>
-</svg>
