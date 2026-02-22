@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="100%" role="img" aria-label="Whoami nyxragon">
+  <defs>
+    <linearGradient id="wg1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00F5FF"/>
+      <stop offset="100%" style="stop-color:#8A2BE2"/>
+    </linearGradient>
+    <linearGradient id="wg2" x1="0%" y1="0%" x2="0%" y2="1">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="320" rx="12" ry="12" fill="url(#wg2)" stroke="url(#wg1)" stroke-width="1.5"/>
+  <rect x="12" y="12" width="936" height="296" rx="8" ry="8" fill="#0d1117" stroke="#1e293b" stroke-width="0.5"/>
+
+  <!-- Left: whoami / nyxragon -->
+  <text x="48" y="52" font-family="monospace" font-size="14" font-weight="600" fill="#64748b">whoami</text>
+  <text x="48" y="86" font-family="monospace" font-size="28" font-weight="700" fill="#00F5FF">nyxragon</text>
+  <text x="48" y="112" font-family="monospace" font-size="13" fill="#94a3b8">security researcher</text>
+
+  <!-- I work at the intersection of -->
+  <text x="48" y="152" font-family="monospace" font-size="12" fill="#a78bfa">I work at the intersection of</text>
+
+  <!-- Circular arrangement: 6 points around center dot -->
+  <g transform="translate(300, 218)">
+    <circle cx="0" cy="0" r="5" fill="url(#wg1)" opacity="0.9"/>
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#334155" stroke-width="0.5" stroke-dasharray="2 2"/>
+    <text x="0" y="-58" text-anchor="middle" font-family="monospace" font-size="10" fill="#22d3ee">AI Red Team</text>
+    <text x="50" y="-30" text-anchor="middle" font-family="monospace" font-size="10" fill="#a78bfa">LLM security</text>
+    <text x="50" y="32" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8">ASM</text>
+    <text x="0" y="60" text-anchor="middle" font-family="monospace" font-size="10" fill="#64748b">Detection</text>
+    <text x="-50" y="32" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8">Cloud</text>
+    <text x="-50" y="-30" text-anchor="middle" font-family="monospace" font-size="10" fill="#a78bfa">Web</text>
+  </g>
+
+  <!-- Dynamic: Build things -> break things -> Automate Offense and Defense (opacity pulse) -->
+  <g transform="translate(48, 288)">
+    <text x="0" y="0" font-family="monospace" font-size="12" font-weight="600" fill="#00F5FF">
+      Build things -&gt; break things -&gt; Automate Offense &amp; Defense
+      <animate attributeName="opacity" dur="3s" repeatCount="indefinite" values="1;0.5;1"/>
+    </text>
+  </g>
+
+  <!-- Right: coder at laptop (theme colors, compact) -->
+  <g transform="translate(580, 32)">
+    <rect x="100" y="120" width="260" height="18" rx="2" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <rect x="108" y="24" width="244" height="100" rx="4" fill="#0f172a" stroke="#00F5FF" stroke-width="1.5"/>
+    <line x1="128" y1="44" x2="340" y2="44" stroke="#334155" stroke-width="0.8"/>
+    <line x1="128" y1="62" x2="280" y2="62" stroke="#22d3ee" stroke-width="0.8"/>
+    <line x1="128" y1="80" x2="320" y2="80" stroke="#a78bfa" stroke-width="0.8"/>
+    <line x1="128" y1="98" x2="200" y2="98" stroke="#64748b" stroke-width="0.8"/>
+    <ellipse cx="230" cy="248" rx="38" ry="32" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <path d="M192 280 L192 218 M268 280 L268 218" stroke="#334155" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <path d="M210 300 L230 278 L250 300" stroke="#334155" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M192 258 L128 138 M268 258 L332 138" stroke="#22d3ee" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.85"/>
+    <rect x="108" y="24" width="244" height="100" rx="4" fill="none" stroke="#00F5FF" stroke-width="1" opacity="0.4"/>
+  </g>
+</svg>
