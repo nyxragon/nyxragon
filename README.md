@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nyxragon&color=a78bfa&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&labelColor=312e81&color=a78bfa&style=flat-square" alt="repos" />
-  <img src="https://img.shields.io/github/stars/nyxragon?labelColor=312e81&color=a78bfa&style=flat-square&label=stars" alt="stars" />
-  <img src="https://img.shields.io/github/followers/nyxragon?labelColor=312e81&color=a78bfa&style=flat-square" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=nyxragon&color=312e81&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&labelColor=312e81&color=6d28d9&style=flat-square" alt="repos" />
+  <img src="https://img.shields.io/github/stars/nyxragon?labelColor=312e81&color=6d28d9&style=flat-square&label=stars" alt="stars" />
+  <img src="https://img.shields.io/github/followers/nyxragon?labelColor=312e81&color=6d28d9&style=flat-square" alt="followers" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
