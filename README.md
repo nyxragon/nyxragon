@@ -13,7 +13,7 @@
 
 ---
 
-## whoami
+## ▸ whoami
 
 `nyxragon` — security researcher focused on breaking modern systems and rebuilding them stronger.
 
@@ -34,7 +34,7 @@ Automate the defense.
 
 ---
 
-## stack
+## ▸ stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,bash,docker,linux,fastapi,git,aws&theme=dark" />
@@ -42,7 +42,7 @@ Automate the defense.
 
 ---
 
-## now
+## ▸ now
 
 - researching AI abuse cases  
 - building small offensive tools  
@@ -52,7 +52,7 @@ Automate the defense.
 
 ---
 
-## work
+## ▸ work
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ Automate the defense.
 
 ---
 
-## recognition
+## ▸ recognition
 
 <p align="center">
   <img src="https://img.shields.io/badge/2×_CVE-CVE--2024--7739_|_CVE--2024--7738-7EE787?style=flat-square" alt="CVE" />
@@ -116,7 +116,7 @@ CVE-2024-7739 · CVE-2024-7738
 
 ---
 
-## certs
+## ▸ certs
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-7EE787?style=flat-square" alt="ISO 27001" />
@@ -125,7 +125,7 @@ CVE-2024-7739 · CVE-2024-7738
 
 ---
 
-## stats
+## ▸ stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
@@ -143,7 +143,7 @@ CVE-2024-7739 · CVE-2024-7738
 
 ---
 
-## quote
+## ▸ quote
 
 <p align="center">
   <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random quote" />
@@ -151,7 +151,7 @@ CVE-2024-7739 · CVE-2024-7738
 
 ---
 
-## connect
+## ▸ connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nyxragon/">
