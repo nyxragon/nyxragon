@@ -15,22 +15,12 @@
 
 ## ▸ Whoami
 
-`nyxragon` — security researcher focused on breaking modern systems and rebuilding them stronger.
-
-I work at the intersection of:
-
-- AI Red Teaming & LLM security  
-- Attack Surface Management (ASM / EASM)  
-- Cloud security  
-- Web & network exploitation  
-- Detection engineering  
-- Security automation  
-
-I like pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling.
-
-Break things.  
-Understand them.  
-Automate the defense.
+<table>
+<tr>
+<td width="55%"><img src="assets/whoami-section.svg" width="100%" alt="Whoami" /></td>
+<td width="45%"><img src="assets/whoami-anim.svg" width="100%" alt="Tech" /></td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
@@ -48,46 +38,16 @@ Automate the defense.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-<details>
-<summary><strong>Experiment: cyan/purple section (click to show)</strong></summary>
-
-<p align="center">
-  <img src="assets/cyber-section-sample.svg" width="100%" alt="Sample: SECTION 1 — JOBS in cyan/purple" />
-</p>
-
-<em>If you like this style we can use it for section headers or work blocks; if not, remove this details block and <code>assets/cyber-section-sample.svg</code>.</em>
-
-</details>
-
 ## ▸ Work
 
-**[HackerOne](https://www.hackerone.com)**  
-Triage Intake Analyst — `Mar 2025 — Present`  
-`bug bounty` `triage` `validation`
+<table>
+<tr>
+<td width="55%"><img src="assets/work-section.svg" width="100%" alt="Experience" /></td>
+<td width="45%"><img src="assets/work-anim.svg" width="100%" alt="Companies" /></td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
-
-**[ZERON](https://www.linkedin.com/company/securezeron)**  
-R&D Associate — `Jul 2024 – Jan 2025`  
-`AI integrations` `ASM` `offsec tools`
-
-Security Researcher Intern — `Aug 2023 – Jul 2024`  
-`ASM detection` `pentesting`
-
-Intern — `Apr 2023 – Jul 2023`  
-`pentesting` `technical content`
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
-
-**[Securityium](https://www.linkedin.com/company/securityium)**  
-Cybersecurity Intern — `Jan 2023 – Apr 2023`  
-`pentesting` `lab setup` `automation`
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
-
-**[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
-Cybersecurity Engineer Intern — `May 2022 – Jul 2022`  
-`security engineering`
+<p align="center"><em>Links: <a href="https://www.hackerone.com">HackerOne</a> · <a href="https://www.linkedin.com/company/securezeron">ZERON</a> · <a href="https://www.linkedin.com/company/securityium">Securityium</a> · <a href="https://www.linkedin.com/company/virtually-testing">VTF</a></em></p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
