@@ -37,7 +37,10 @@ Automate the defense.
 ## ▸ stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,docker,linux,fastapi,git,aws&theme=dark" />
+  <img src="assets/stack.svg" alt="stack" width="520" height="64" />
+</p>
+<p align="center">
+  <sub>python · go · bash · docker · linux · fastapi · git · aws</sub>
 </p>
 
 ---
@@ -54,33 +57,61 @@ Automate the defense.
 
 ## ▸ work
 
-<p align="center">
-  <strong><a href="https://www.hackerone.com">HackerOne</a></strong><br/>
-  <code>▸</code> Triage Intake Analyst · Mar 2025 — Present<br/>
-  <sub>→ bug bounty · triage · validation</sub>
-</p>
+<details>
+<summary><strong><a href="https://www.hackerone.com">HackerOne</a></strong></summary>
 
-<p align="center">
-  <strong><a href="https://www.linkedin.com/company/securezeron">ZERON</a></strong><br/>
-  <code>▸</code> R&D Associate · Jul 2024 – Jan 2025<br/>
-  <sub>→ AI integrations · ASM · offsec tools</sub><br/>
-  <code>▸</code> Security Researcher Intern · Aug 2023 – Jul 2024<br/>
-  <sub>→ ASM detection · pentesting</sub><br/>
-  <code>▸</code> Intern · Apr 2023 – Jul 2023<br/>
-  <sub>→ pentesting · technical content</sub>
-</p>
+<details>
+<summary><code>▸</code> Triage Intake Analyst · Mar 2025 — Present</summary>
 
-<p align="center">
-  <strong><a href="https://www.linkedin.com/company/securityium">Securityium</a></strong><br/>
-  <code>▸</code> Cybersecurity Intern · Jan 2023 – Apr 2023<br/>
-  <sub>→ pentesting · lab setup · automation</sub>
-</p>
+→ bug bounty · triage · validation
 
-<p align="center">
-  <strong><a href="https://www.linkedin.com/company/virtually-testing">Virtually Testing Foundation</a></strong><br/>
-  <code>▸</code> Cybersecurity Engineer Intern · May 2022 – Jul 2022<br/>
-  <sub>→ security engineering</sub>
-</p>
+</details>
+</details>
+
+<details>
+<summary><strong><a href="https://www.linkedin.com/company/securezeron">ZERON</a></strong></summary>
+
+<details>
+<summary><code>▸</code> R&D Associate · Jul 2024 – Jan 2025</summary>
+
+→ AI integrations · ASM · offsec tools
+
+</details>
+<details>
+<summary><code>▸</code> Security Researcher Intern · Aug 2023 – Jul 2024</summary>
+
+→ ASM detection · pentesting
+
+</details>
+<details>
+<summary><code>▸</code> Intern · Apr 2023 – Jul 2023</summary>
+
+→ pentesting · technical content
+
+</details>
+</details>
+
+<details>
+<summary><strong><a href="https://www.linkedin.com/company/securityium">Securityium</a></strong></summary>
+
+<details>
+<summary><code>▸</code> Cybersecurity Intern · Jan 2023 – Apr 2023</summary>
+
+→ pentesting · lab setup · automation
+
+</details>
+</details>
+
+<details>
+<summary><strong><a href="https://www.linkedin.com/company/virtually-testing">Virtually Testing Foundation</a></strong></summary>
+
+<details>
+<summary><code>▸</code> Cybersecurity Engineer Intern · May 2022 – Jul 2022</summary>
+
+→ security engineering
+
+</details>
+</details>
 
 ---
 
