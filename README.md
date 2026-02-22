@@ -15,8 +15,8 @@
 
 <table>
 <tr>
-<td width="55%"><img src="assets/whoami-full.svg" width="100%" alt="Whoami nyxragon" /></td>
-<td width="45%"><img src="assets/whoami-illusion.gif" width="100%" alt="" /></td>
+<td width="55%" valign="top"><img src="assets/whoami-full.svg" width="100%" height="320" alt="Whoami nyxragon" /></td>
+<td width="45%" valign="top"><img src="https://raw.githubusercontent.com/nyxragon/nyxragon/main/assets/whoami-illusion.gif" width="100%" height="320" alt="" /></td>
 </tr>
 </table>
 
