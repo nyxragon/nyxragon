@@ -35,8 +35,8 @@
     </text>
   </g>
 
-  <!-- Right: your animation (place whoami-illus.png or whoami-illus.gif in assets/) -->
+  <!-- Right: your animation -->
   <g transform="translate(520, 24)" clip-path="url(#imgClip)">
-    <image href="whoami-illus.png" x="0" y="0" width="416" height="272" preserveAspectRatio="xMidYMid slice"/>
+    <image href="whoami-illusion.gif" x="0" y="0" width="416" height="272" preserveAspectRatio="xMidYMid slice"/>
   </g>
 </svg>
