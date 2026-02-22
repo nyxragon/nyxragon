@@ -37,10 +37,7 @@ Automate the defense.
 ## ▸ stack
 
 <p align="center">
-  <img src="assets/stack.svg" alt="stack" width="520" height="64" />
-</p>
-<p align="center">
-  <sub>python · go · bash · docker · linux · fastapi · git · aws</sub>
+  <img src="https://skillicons.dev/icons?i=python,go,bash,docker,linux,fastapi,git,aws&theme=dark" />
 </p>
 
 ---
