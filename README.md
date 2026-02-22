@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/followers/nyxragon?color=7EE787&style=flat-square" alt="followers" />
 </p>
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ whoami
 
@@ -32,15 +32,15 @@ Break things.
 Understand them.  
 Automate the defense.
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,docker,linux,fastapi,git,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,ai,python,go,bash,fastapi,git&theme=dark" />
 </p>
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ now
 
@@ -50,7 +50,7 @@ Automate the defense.
 - cloud security  
 - automating security workflows  
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ work
 
@@ -110,7 +110,7 @@ Automate the defense.
 </details>
 </details>
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ recognition
 
@@ -130,7 +130,7 @@ Automate the defense.
 CVE-2024-7739 · CVE-2024-7738
 </details>
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ certs
 
@@ -139,7 +139,7 @@ CVE-2024-7739 · CVE-2024-7738
   <img src="https://img.shields.io/badge/eJPT_v2-Junior_Pentester-7EE787?style=flat-square" alt="eJPT" />
 </p>
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ stats
 
@@ -157,7 +157,7 @@ CVE-2024-7739 · CVE-2024-7738
   <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 </p>
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ quote
 
@@ -165,7 +165,7 @@ CVE-2024-7739 · CVE-2024-7738
   <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random quote" />
 </p>
 
----
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
 
 ## ▸ connect
 
