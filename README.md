@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=a78bfa&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Automation+in+Security;Cloud+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=a78bfa&background=0D111700&center=true&vCenter=true&width=600&lines=Abhijeet+Ingle;Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Offsec+tool+development;Automation+in+Security;Cloud+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -66,21 +66,8 @@
 ## ▸ Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxragon&theme=tokyonight&hide_border=true" width="48%" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=react-dark&hide_border=true" width="48%" alt="Activity graph" />
-</p>
-
-<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
-
-## ▸ Quote
-
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random quote" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
