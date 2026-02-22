@@ -1,15 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Explorer;Automation+in+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Automation+in+Security;Cloud+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Abhijeet Ingle · nyxragon</h2>
 
 <p align="center">
-  offensive security · AI security · automation · ASM
+  AI red teaming<br/>
+  Attack Surface Management<br/>
+  cloud security<br/>
+  automation
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nyxragon&color=7EE787&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&color=7EE787&style=flat-square" alt="repos" />
+  <img src="https://img.shields.io/github/stars/nyxragon?color=7EE787&style=flat-square&label=stars" alt="stars" />
+  <img src="https://img.shields.io/github/followers/nyxragon?color=7EE787&style=flat-square" alt="followers" />
 </p>
 
 ---
@@ -22,6 +28,7 @@ I work at the intersection of:
 
 - AI Red Teaming & LLM security  
 - Attack Surface Management (ASM / EASM)  
+- Cloud security  
 - Web & network exploitation  
 - Detection engineering  
 - Security automation  
@@ -37,7 +44,7 @@ Automate the defense.
 ## stack
 
 <p align="center">
-  <img src="https://skill-icons.dev/icons?i=python,go,bash,docker,linux,fastapi,git&theme=dark" />
+  <img src="https://skill-icons.dev/icons?i=python,go,bash,docker,linux,fastapi,git,aws&theme=dark" />
 </p>
 
 ---
@@ -47,6 +54,7 @@ Automate the defense.
 - researching AI abuse cases  
 - building small offensive tools  
 - exploring attack surfaces  
+- cloud security  
 - automating security workflows  
 
 ---
