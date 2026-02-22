@@ -13,7 +13,48 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ Whoami
+## [PROFILE MAP]
+
+```mermaid
+graph TB
+  subgraph subject [SUBJECT]
+    S[nyxragon]
+  end
+  subgraph affiliations [KNOWN ASSOCIATIONS]
+    A1[HackerOne]
+    A2[ZERON]
+    A3[Securityium]
+    A4[Virtually Testing]
+  end
+  subgraph capabilities [ASSESSED CAPABILITIES]
+    C1[ASM]
+    C2[pentesting]
+    C3[bug bounty]
+    C4[AI red teaming]
+    C5[automation]
+  end
+  S -->|works at| A1
+  S -->|works at| A2
+  S -->|works at| A3
+  S -->|works at| A4
+  S -->|focuses on| C1
+  S -->|focuses on| C2
+  S -->|focuses on| C3
+  S -->|focuses on| C4
+  S -->|focuses on| C5
+  style S fill:#1e1b4b,stroke:#8A2BE2,stroke-width:2px
+  style A1 fill:#0d1117,stroke:#00F5FF
+  style A2 fill:#0d1117,stroke:#00F5FF
+  style A3 fill:#0d1117,stroke:#00F5FF
+  style A4 fill:#0d1117,stroke:#00F5FF
+  style C1 fill:#0d1117,stroke:#8A2BE2
+  style C2 fill:#0d1117,stroke:#8A2BE2
+  style C3 fill:#0d1117,stroke:#8A2BE2
+  style C4 fill:#0d1117,stroke:#8A2BE2
+  style C5 fill:#0d1117,stroke:#8A2BE2
+```
+
+## [SUBJECT]
 
 ```ts
 const whoami = {
@@ -50,13 +91,15 @@ const whoami = {
   </picture>
 </p>
 
+## [ASSESSED CAPABILITIES]
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,ai,python,go,bash,fastapi,git&theme=dark" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## 🏗️ ▸ Work
+## [KNOWN ASSOCIATIONS]
 
 **[HackerOne](https://www.hackerone.com)**  
 Triage Intake Analyst — `Mar 2025 — Present`  
@@ -88,7 +131,7 @@ Cybersecurity Engineer Intern — `May 2022 – Jul 2022`
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ Currently Working On
+## [CURRENT FOCUS]
 
 - researching AI abuse cases  
 - building small offensive tools  
@@ -100,7 +143,7 @@ Cybersecurity Engineer Intern — `May 2022 – Jul 2022`
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ Stats
+## [DIGITAL FOOTPRINT]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
@@ -114,7 +157,7 @@ Cybersecurity Engineer Intern — `May 2022 – Jul 2022`
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ Quote
+## [ARTIFACT]
 
 <p align="center">
   <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random quote" />
@@ -122,7 +165,7 @@ Cybersecurity Engineer Intern — `May 2022 – Jul 2022`
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ Connect
+## [CONTACT]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nyxragon/">
