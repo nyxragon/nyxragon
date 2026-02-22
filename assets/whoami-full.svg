@@ -2,17 +2,16 @@
   <defs>
     <linearGradient id="wg1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#00F5FF"/>
-      <stop offset="100%" style="stop-color:#8A2BE2"/>
+      <stop offset="100%" style="stop-color:#A970FF"/>
     </linearGradient>
     <linearGradient id="wg2" x1="0%" y1="0%" x2="0%" y2="1">
       <stop offset="0%" style="stop-color:#0f172a"/>
       <stop offset="100%" style="stop-color:#0d1117"/>
     </linearGradient>
     <clipPath id="imgClip"><rect x="0" y="0" width="416" height="272" rx="8" ry="8"/></clipPath>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+    <filter id="glow" x="-15%" y="-15%" width="130%" height="130%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
-        <feMergeNode in="blur"/>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
@@ -21,19 +20,20 @@
   <rect width="960" height="320" rx="12" ry="12" fill="url(#wg2)" stroke="url(#wg1)" stroke-width="1.5"/>
   <rect x="12" y="12" width="936" height="296" rx="8" ry="8" fill="#0d1117" stroke="#1e293b" stroke-width="0.5"/>
 
-  <!-- Left: whoami content -->
-  <text x="48" y="54" font-family="monospace" font-size="15" font-weight="600" fill="#94a3b8">whoami</text>
-  <text x="48" y="88" font-family="monospace" font-size="28" font-weight="700" fill="#00F5FF">nyxragon</text>
-  <text x="48" y="116" font-family="monospace" font-size="14" fill="#a78bfa">security researcher</text>
-  <text x="48" y="156" font-family="monospace" font-size="13" fill="#a78bfa">I work at the intersection of</text>
-  <text x="64" y="186" font-family="monospace" font-size="12" fill="#c4b5fd">- AI Red Team, LLM security</text>
-  <text x="64" y="208" font-family="monospace" font-size="12" fill="#c4b5fd">- ASM, Cloud, Web, Detection</text>
-  <text x="64" y="230" font-family="monospace" font-size="12" fill="#c4b5fd">- Pushing AI into security pipelines</text>
-  <text x="64" y="252" font-family="monospace" font-size="12" fill="#c4b5fd">- Mapping attack surfaces, tooling</text>
+  <!-- Left: whoami content (cyan + purple hierarchy) -->
+  <text x="48" y="54" font-family="monospace" font-size="14" font-weight="600" fill="#7C5CFF" style="letter-spacing:0.12em">whoami</text>
+  <text x="48" y="90" font-family="monospace" font-size="28" font-weight="700" fill="#00F5FF">nyxragon</text>
+  <text x="48" y="118" font-family="monospace" font-size="14" fill="#A970FF">security researcher</text>
+  <text x="48" y="158" font-family="monospace" font-size="13" fill="#7C5CFF">I work at the intersection of</text>
+  <text x="64" y="184" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="184" font-family="monospace" font-size="11" fill="#6FFBFF">AI Red Teaming | Secure LLM Deployment</text>
+  <text x="64" y="202" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="202" font-family="monospace" font-size="11" fill="#6FFBFF">Attack Surface Management</text>
+  <text x="64" y="220" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="220" font-family="monospace" font-size="11" fill="#6FFBFF">Cloud Security</text>
+  <text x="64" y="238" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="238" font-family="monospace" font-size="11" fill="#6FFBFF">Detection Engineering &amp; Offensive Tooling</text>
+  <text x="64" y="256" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="256" font-family="monospace" font-size="11" fill="#6FFBFF">Integrating AI into Security Pipelines</text>
   <g transform="translate(48, 288)" filter="url(#glow)">
-    <text x="0" y="0" font-family="monospace" font-size="13" font-weight="700" fill="#00F5FF">
-      Build Things -&gt; Break Things -&gt; Automate Offense &amp; Defense
-      <animate attributeName="opacity" dur="3s" repeatCount="indefinite" values="1;0.6;1"/>
+    <text x="0" y="0" font-family="monospace" font-size="12" font-weight="600" fill="#00F5FF">
+      Build Things &#x2192; Break Things &#x2192; Automate Offense &amp; Defense
+      <animate attributeName="opacity" dur="3s" repeatCount="indefinite" values="1;0.7;1"/>
     </text>
   </g>
 
