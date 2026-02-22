@@ -58,37 +58,36 @@ Automate the defense.
 <tr>
 <td width="50%">
 
-**[HackerOne](https://www.hackerone.com)** · <code>Remote</code>  
-**Triage Intake Analyst** · Mar 2025 — Present  
-<sub>Intake & triage for bug bounty programs · vulnerability validation · researcher–program coordination</sub>
+<img src="https://logo.clearbit.com/hackerone.com" width="18" height="18" alt="" /> **[HackerOne](https://www.hackerone.com)**  
+Triage Intake Analyst · Mar 2025 — Present  
+<sub>bug bounty · triage · validation</sub>
 
 </td>
 <td width="50%">
 
-**[ZERON](https://www.linkedin.com/company/securezeron)** · <code>Mumbai</code>  
-**R&D Associate** · Jul 2024 – Jan 2025  
-<sub>AI red teaming · PII Discovery (PIIScout @ Black Hat MEA Arsenal) · ASM tools · in-house LLM</sub>  
-
-**Security Researcher Intern** · Aug 2023 – Jul 2024  
-<sub>Detection features for ASM · web & external network pentests</sub>  
-
-**Intern** · Apr 2023 – Jul 2023  
-<sub>Web & external network pentests · technical content</sub>
+<img src="https://logo.clearbit.com/securezeron.com" width="18" height="18" alt="" /> **[ZERON](https://www.linkedin.com/company/securezeron)**  
+R&D Associate · Jul 2024 – Jan 2025  
+<sub>AI red teaming · ASM · PIIScout</sub>  
+Security Researcher Intern · Aug 2023 – Jul 2024  
+<sub>ASM detection · pentesting</sub>  
+Intern · Apr 2023 – Jul 2023  
+<sub>pentesting · technical content</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[Securityium](https://www.linkedin.com/company/securityium)** · <code>Pune</code>  
-**Cybersecurity Intern** · Jan 2023 – Apr 2023  
-<sub>Web & network pentests · pentest lab setup · automation (FastAPI, Python, Bash, Docker)</sub>
+<img src="https://logo.clearbit.com/securityium.com" width="18" height="18" alt="" /> **[Securityium](https://www.linkedin.com/company/securityium)**  
+Cybersecurity Intern · Jan 2023 – Apr 2023  
+<sub>pentesting · lab setup · automation</sub>
 
 </td>
 <td width="50%">
 
-**[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
-**Cybersecurity Engineer Intern** · May 2022 – Jul 2022  
+<img src="https://logo.clearbit.com/virtuallytestingfoundation.org" width="18" height="18" alt="" /> **[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
+Cybersecurity Engineer Intern · May 2022 – Jul 2022  
+<sub>security engineering</sub>
 
 </td>
 </tr>
