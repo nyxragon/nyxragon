@@ -34,6 +34,16 @@ Automate the defense.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyxragon/nyxragon/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyxragon/nyxragon/output-pacman/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nyxragon/nyxragon/output-pacman/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
+
 ## ▸ stack
 
 <p align="center">
