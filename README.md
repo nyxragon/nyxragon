@@ -15,25 +15,29 @@
 
 ## ▸ Whoami
 
-```
-▸ whoami
-nyxragon — security researcher focused on breaking modern systems and rebuilding them stronger.
+```ts
+const whoami = {
+  handle: "nyxragon",
+  role: "security researcher",
+  tagline: "breaking modern systems and rebuilding them stronger",
 
-▸ intersection
-  • AI Red Teaming & LLM security
-  • Attack Surface Management (ASM / EASM)
-  • Cloud security
-  • Web & network exploitation
-  • Detection engineering
-  • Security automation
+  intersection: [
+    "AI Red Teaming & LLM security",
+    "Attack Surface Management (ASM / EASM)",
+    "Cloud security",
+    "Web & network exploitation",
+    "Detection engineering",
+    "Security automation",
+  ],
 
-▸ like
-  Pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling.
+  like: "Pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling.",
 
-▸ mantra
-  Break things.
-  Understand them.
-  Automate the defense.
+  mantra: [
+    "Break things.",
+    "Understand them.",
+    "Automate the defense.",
+  ],
+};
 ```
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
