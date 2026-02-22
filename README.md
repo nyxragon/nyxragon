@@ -13,12 +13,7 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-<table>
-<tr>
-<td width="52%"><img src="assets/whoami-full.svg" width="100%" alt="Whoami nyxragon" /></td>
-<td width="48%"><img src="assets/whoami-illusion.gif" width="100%" alt="" /></td>
-</tr>
-</table>
+<p align="center"><img src="assets/whoami-full.svg" width="100%" alt="Whoami nyxragon" /></p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
