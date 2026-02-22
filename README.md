@@ -13,65 +13,13 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## [PROFILE MAP]
+## [CASE FILE]
 
-```mermaid
-graph LR
-  subgraph Person
-    A[nyxragon / Security Researcher]
-  end
-
-  subgraph Companies
-    H[HackerOne]
-    Z[ZERON]
-    S[Securityium]
-    V[VTF]
-  end
-
-  subgraph Skills
-    AI[AI Red Teaming]
-    ASM[ASM / EASM]
-    PENT[Pentesting]
-    LLM[LLM Security]
-    DET[Detection Eng]
-    CLOUD[Cloud Security]
-  end
-
-  subgraph Projects
-    CVE1["CVE-2024-7739"]
-    CVE2["CVE-2024-7738"]
-    PIIS["PIIScout"]
-  end
-
-  A --> H
-  A --> Z
-  A --> S
-  A --> V
-  Z --> PIIS
-  Z --> LLM
-  H --> PENT
-  H --> DET
-  A --> AI
-  A --> ASM
-  A --> LLM
-  A --> CLOUD
-  A --> PENT
-  A --> DET
-  CVE1 --> A
-  CVE2 --> A
-  style A fill:#1e1b4b,stroke:#8A2BE2,stroke-width:2px
-  style H fill:#0d1117,stroke:#00F5FF
-  style Z fill:#0d1117,stroke:#00F5FF
-  style S fill:#0d1117,stroke:#00F5FF
-  style V fill:#0d1117,stroke:#00F5FF
-  style CVE1 fill:#0d1117,stroke:#22d3ee
-  style CVE2 fill:#0d1117,stroke:#22d3ee
-  style PIIS fill:#0d1117,stroke:#22d3ee
-```
-
-<p align="left">
-  <img src="assets/case-header.svg" width="360" height="38" alt="whoami — case file" />
+<p align="center">
+  <img src="assets/crime-thread-card.svg" width="100%" alt="Case file — nyxragon crime thread board" />
 </p>
+
+<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
 ## [SUBJECT]
 
@@ -99,14 +47,6 @@ const whoami = {
   ],
 };
 ```
-
-<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
-
-### ▸ OSINT Board
-
-<p align="center">
-  <img src="assets/corkboard.svg" width="100%" alt="OSINT corkboard — case nyxragon" />
-</p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
