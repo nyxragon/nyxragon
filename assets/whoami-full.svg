@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 320" width="100%" role="img" aria-label="Whoami nyxragon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" width="100%" role="img" aria-label="Whoami nyxragon">
   <defs>
     <linearGradient id="wg1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#00F5FF"/>
@@ -8,10 +8,9 @@
       <stop offset="0%" style="stop-color:#0f172a"/>
       <stop offset="100%" style="stop-color:#0d1117"/>
     </linearGradient>
-    <clipPath id="imgClip"><rect x="0" y="0" width="416" height="272" rx="8" ry="8"/></clipPath>
   </defs>
-  <rect width="960" height="320" rx="12" ry="12" fill="url(#wg2)" stroke="url(#wg1)" stroke-width="1.5"/>
-  <rect x="12" y="12" width="936" height="296" rx="8" ry="8" fill="#0d1117" stroke="#1e293b" stroke-width="0.5"/>
+  <rect width="520" height="320" rx="12" ry="12" fill="url(#wg2)" stroke="url(#wg1)" stroke-width="1.5"/>
+  <rect x="12" y="12" width="496" height="296" rx="8" ry="8" fill="#0d1117" stroke="#1e293b" stroke-width="0.5"/>
 
   <!-- Left: whoami content -->
   <text x="48" y="52" font-family="monospace" font-size="14" font-weight="600" fill="#64748b">whoami</text>
@@ -29,8 +28,4 @@
     </text>
   </g>
 
-  <!-- Right: GIF inside SVG (absolute URL so GitHub may load it) -->
-  <g transform="translate(520, 24)" clip-path="url(#imgClip)">
-    <image xlink:href="https://raw.githubusercontent.com/nyxragon/nyxragon/main/assets/whoami-illusion.gif" x="0" y="0" width="416" height="272" preserveAspectRatio="xMidYMid slice"/>
-  </g>
 </svg>
