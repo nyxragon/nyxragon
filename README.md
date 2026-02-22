@@ -58,16 +58,16 @@ Automate the defense.
 <tr>
 <td width="50%">
 
-<img src="https://logo.clearbit.com/hackerone.com" width="18" height="18" alt="" /> **[HackerOne](https://www.hackerone.com)**  
+<img src="https://www.google.com/s2/favicons?domain=hackerone.com&sz=24" width="18" height="18" alt="" /> **[HackerOne](https://www.hackerone.com)**  
 Triage Intake Analyst · Mar 2025 — Present  
 <sub>bug bounty · triage · validation</sub>
 
 </td>
 <td width="50%">
 
-<img src="https://logo.clearbit.com/securezeron.com" width="18" height="18" alt="" /> **[ZERON](https://www.linkedin.com/company/securezeron)**  
+<img src="https://www.google.com/s2/favicons?domain=zeron.one&sz=24" width="18" height="18" alt="" /> **[ZERON](https://www.linkedin.com/company/securezeron)**  
 R&D Associate · Jul 2024 – Jan 2025  
-<sub>AI red teaming · ASM · PIIScout</sub>  
+<sub>AI Integrations · Attack Surface Management · Offsec Tool Development</sub>  
 Security Researcher Intern · Aug 2023 – Jul 2024  
 <sub>ASM detection · pentesting</sub>  
 Intern · Apr 2023 – Jul 2023  
@@ -78,14 +78,14 @@ Intern · Apr 2023 – Jul 2023
 <tr>
 <td width="50%">
 
-<img src="https://logo.clearbit.com/securityium.com" width="18" height="18" alt="" /> **[Securityium](https://www.linkedin.com/company/securityium)**  
+<img src="https://www.google.com/s2/favicons?domain=securityium.com&sz=24" width="18" height="18" alt="" /> **[Securityium](https://www.linkedin.com/company/securityium)**  
 Cybersecurity Intern · Jan 2023 – Apr 2023  
 <sub>pentesting · lab setup · automation</sub>
 
 </td>
 <td width="50%">
 
-<img src="https://logo.clearbit.com/virtuallytestingfoundation.org" width="18" height="18" alt="" /> **[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
+<img src="https://www.google.com/s2/favicons?domain=virtuallytestingfoundation.org&sz=24" width="18" height="18" alt="" /> **[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
 Cybersecurity Engineer Intern · May 2022 – Jul 2022  
 <sub>security engineering</sub>
 
