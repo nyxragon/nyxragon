@@ -21,6 +21,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install ffmpeg and ttyd
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          (sudo apt-get install -y ttyd 2>/dev/null) || true
+
       - name: Generate whoami.gif
         uses: charmbracelet/vhs-action@v1
         with:
