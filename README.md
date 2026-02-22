@@ -13,7 +13,7 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ whoami
+## ▸ Whoami
 
 `nyxragon` — security researcher focused on breaking modern systems and rebuilding them stronger.
 
@@ -42,25 +42,13 @@ Automate the defense.
   </picture>
 </p>
 
-<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,ai,python,go,bash,fastapi,git&theme=dark" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ now
-
-- researching AI abuse cases  
-- building small offensive tools  
-- exploring attack surfaces  
-- cloud security  
-- automating security workflows  
-
-<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
-
-## ▸ work
+## 🏗️ ▸ Work
 
 <details>
 <summary><strong><a href="https://www.hackerone.com">HackerOne</a></strong></summary>
@@ -120,36 +108,19 @@ Automate the defense.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ recognition
+## ▸ Currently Working On
 
-<p align="center">
-  <img src="https://img.shields.io/badge/2×_CVE-CVE--2024--7739_|_CVE--2024--7738-22d3ee?style=flat-square" alt="CVE" />
-  <img src="https://img.shields.io/badge/Speaker-BSides_·_OWASP_·_PICT-22d3ee?style=flat-square" alt="Speaker" />
-  <img src="https://img.shields.io/badge/Getsethack-7th_/_22k-22d3ee?style=flat-square" alt="Getsethack" />
-</p>
+- researching AI abuse cases  
+- building small offensive tools  
+- exploring attack surfaces  
+- cloud security  
+- automating security workflows  
 
-- **Hall of Fame** — UN, Cambridge, Indian Govt, Philips, Deutsche Telekom, Nykaa, Touch Bistro, others  
-- **INSPIRE Scholarship** — DST, Govt of India (top 1% · Class XII)  
-- **HSC 2020** — 1st rank Vivekanand College · State subject topper, Mathematics (100/100)  
-
-<details>
-<summary><b>2× CVE</b> — Yzane PDF (VS Code, 2.2M+ downloads)</summary>
-
-CVE-2024-7739 · CVE-2024-7738
-</details>
+> **Want to know more about me?** → [Resume](#)
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ certs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-22d3ee?style=flat-square" alt="ISO 27001" />
-  <img src="https://img.shields.io/badge/eJPT_v2-Junior_Pentester-22d3ee?style=flat-square" alt="eJPT" />
-</p>
-
-<p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
-
-## ▸ stats
+## ▸ Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
@@ -163,7 +134,7 @@ CVE-2024-7739 · CVE-2024-7738
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ quote
+## ▸ Quote
 
 <p align="center">
   <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random quote" />
@@ -171,7 +142,7 @@ CVE-2024-7739 · CVE-2024-7738
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ connect
+## ▸ Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nyxragon/">
