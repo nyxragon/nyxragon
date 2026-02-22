@@ -15,22 +15,14 @@
 
 ## ▸ whoami
 
-`nyxragon` — security researcher focused on breaking modern systems and rebuilding them stronger.
+<p align="center">
+  <img src="assets/whoami-spotlight.svg" width="100%" alt="nyxragon — security researcher. Break things. Understand them. Automate the defense." />
+</p>
 
-I work at the intersection of:
-
-- AI Red Teaming & LLM security  
-- Attack Surface Management (ASM / EASM)  
-- Cloud security  
-- Web & network exploitation  
-- Detection engineering  
-- Security automation  
-
-I like pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling.
-
-Break things.  
-Understand them.  
-Automate the defense.
+| **Who** | **Focus** |
+|---------|-----------|
+| `nyxragon` — security researcher | AI Red Teaming & LLM security · Attack Surface Management (ASM / EASM) · Cloud security · Web & network exploitation · Detection engineering · Security automation |
+| **Like** | Pushing AI into security pipelines, mapping unknown attack surfaces, and turning repetitive security work into tooling. |
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 

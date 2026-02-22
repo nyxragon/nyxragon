@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 155" width="100%" role="img" aria-label="nyxragon  security researcher. Break things. Understand them. Automate the defense.">
+  <defs>
+    <linearGradient id="cardStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="30%" style="stop-color:#7c3aed"/>
+      <stop offset="50%" style="stop-color:#22d3ee"/>
+      <stop offset="70%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="taglineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="50%" style="stop-color:#22d3ee"/>
+      <stop offset="100%" style="stop-color:#3b82f6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#22d3ee" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Card -->
+  <rect x="20" y="16" width="640" height="123" rx="10" ry="10" fill="#0d1117" stroke="url(#cardStroke)" stroke-width="1.5"/>
+  <!-- Intro -->
+  <text x="340" y="42" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8">nyxragon  security researcher</text>
+  <text x="340" y="60" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#64748b">focused on breaking modern systems and rebuilding them stronger.</text>
+  <!-- Tagline with glow -->
+  <g filter="url(#glow)">
+    <text x="340" y="88" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="url(#taglineGrad)">Break things.</text>
+    <text x="340" y="108" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="url(#taglineGrad)">Understand them.</text>
+    <text x="340" y="128" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="url(#taglineGrad)">Automate the defense.</text>
+  </g>
+</svg>
