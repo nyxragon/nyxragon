@@ -18,7 +18,7 @@
 <table>
 <tr>
 <td width="55%"><img src="assets/whoami-section.svg" width="100%" alt="Whoami" /></td>
-<td width="45%"><img src="assets/whoami-terminal.svg" width="100%" alt="Terminal whoami" /></td>
+<td width="45%"><img src="assets/whoami.gif" width="100%" alt="Terminal whoami" /></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@
 <table>
 <tr>
 <td width="55%"><img src="assets/work-section.svg" width="100%" alt="Experience" /></td>
-<td width="45%"><img src="assets/experience-terminal.svg" width="100%" alt="Terminal cat experience" /></td>
+<td width="45%"><img src="assets/experience.gif" width="100%" alt="Terminal cat experience" /></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@
 > **Want to know more about me?** → [Resume](#)
 
 </td>
-<td width="45%"><img src="assets/focus-terminal.svg" width="100%" alt="Terminal cat focus" /></td>
+<td width="45%"><img src="assets/focus.gif" width="100%" alt="Terminal cat focus" /></td>
 </tr>
 </table>
 
