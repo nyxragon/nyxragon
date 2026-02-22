@@ -48,6 +48,17 @@ Automate the defense.
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
+<details>
+<summary><strong>Experiment: cyan/purple section (click to show)</strong></summary>
+
+<p align="center">
+  <img src="assets/cyber-section-sample.svg" width="100%" alt="Sample: SECTION 1 — JOBS in cyan/purple" />
+</p>
+
+<em>If you like this style we can use it for section headers or work blocks; if not, remove this details block and <code>assets/cyber-section-sample.svg</code>.</em>
+
+</details>
+
 ## ▸ Work
 
 **[HackerOne](https://www.hackerone.com)**  
