@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=22d3ee&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Automation+in+Security;Cloud+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=a78bfa&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Automation+in+Security;Cloud+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
 </p>
 
-<h2 align="center">Abhijeet Ingle · nyxragon</h2>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nyxragon&color=22d3ee&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&color=22d3ee&style=flat-square" alt="repos" />
-  <img src="https://img.shields.io/github/stars/nyxragon?color=22d3ee&style=flat-square&label=stars" alt="stars" />
-  <img src="https://img.shields.io/github/followers/nyxragon?color=22d3ee&style=flat-square" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=nyxragon&color=a78bfa&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&labelColor=312e81&color=a78bfa&style=flat-square" alt="repos" />
+  <img src="https://img.shields.io/github/stars/nyxragon?labelColor=312e81&color=a78bfa&style=flat-square&label=stars" alt="stars" />
+  <img src="https://img.shields.io/github/followers/nyxragon?labelColor=312e81&color=a78bfa&style=flat-square" alt="followers" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
