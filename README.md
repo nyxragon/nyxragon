@@ -35,7 +35,11 @@ Automate the defense.
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/nyxragon/nyxragon/output/github-snake.svg" width="100%" alt="Contribution snake" />
+  </picture>
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
