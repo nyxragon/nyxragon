@@ -43,7 +43,7 @@ Automate the defense.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,aws,docker,kubernetes,nginx,terraform,ai,python,go,bash,fastapi,git,postgres,redis,postman,vscode,kali&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,aws,docker,kubernetes,nginx,terraform,ai,python,go,bash,fastapi,git,postgres,redis,postman,vscode&theme=dark&perline=6" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
