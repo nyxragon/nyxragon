@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=a78bfa&background=0D111700&center=true&vCenter=true&width=600&lines=Abhijeet+Ingle;Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Offsec+tool+development;Automation+in+Security;Cloud+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=a78bfa&background=0D111700&center=true&vCenter=true&width=600&lines=abhijeetIngle;securityResearcher;aiRedTeaming;attackSurfaceManagement;offsecToolDevelopment;automationInSecurity;cloudSecurity;Build+%E2%86%92+Break+%E2%86%92+Automate" alt="Typing SVG" />
 </p>
 
 <p align="center">
