@@ -5,13 +5,6 @@
 <h2 align="center">Abhijeet Ingle · nyxragon</h2>
 
 <p align="center">
-  AI red teaming<br/>
-  Attack Surface Management<br/>
-  cloud security<br/>
-  automation
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nyxragon&color=7EE787&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&color=7EE787&style=flat-square" alt="repos" />
   <img src="https://img.shields.io/github/stars/nyxragon?color=7EE787&style=flat-square&label=stars" alt="stars" />
@@ -44,7 +37,7 @@ Automate the defense.
 ## stack
 
 <p align="center">
-  <img src="https://skill-icons.dev/icons?i=python,go,bash,docker,linux,fastapi,git,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,docker,linux,fastapi,git,aws&theme=dark" />
 </p>
 
 ---
