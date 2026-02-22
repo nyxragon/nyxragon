@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Automation+in+Security;Cloud+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=22d3ee&background=0D111700&center=true&vCenter=true&width=600&lines=Security+Researcher;AI+Red+Teaming;Attack+Surface+Management;Automation+in+Security;Cloud+Security;break+%E2%86%92+build+%E2%86%92+repeat" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Abhijeet Ingle · nyxragon</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nyxragon&color=7EE787&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&color=7EE787&style=flat-square" alt="repos" />
-  <img src="https://img.shields.io/github/stars/nyxragon?color=7EE787&style=flat-square&label=stars" alt="stars" />
-  <img src="https://img.shields.io/github/followers/nyxragon?color=7EE787&style=flat-square" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=nyxragon&color=22d3ee&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nyxragon&label=Repos&query=$.public_repos&color=22d3ee&style=flat-square" alt="repos" />
+  <img src="https://img.shields.io/github/stars/nyxragon?color=22d3ee&style=flat-square&label=stars" alt="stars" />
+  <img src="https://img.shields.io/github/followers/nyxragon?color=22d3ee&style=flat-square" alt="followers" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
@@ -115,9 +115,9 @@ Automate the defense.
 ## ▸ recognition
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2×_CVE-CVE--2024--7739_|_CVE--2024--7738-7EE787?style=flat-square" alt="CVE" />
-  <img src="https://img.shields.io/badge/Speaker-BSides_·_OWASP_·_PICT-7EE787?style=flat-square" alt="Speaker" />
-  <img src="https://img.shields.io/badge/Getsethack-7th_/_22k-7EE787?style=flat-square" alt="Getsethack" />
+  <img src="https://img.shields.io/badge/2×_CVE-CVE--2024--7739_|_CVE--2024--7738-22d3ee?style=flat-square" alt="CVE" />
+  <img src="https://img.shields.io/badge/Speaker-BSides_·_OWASP_·_PICT-22d3ee?style=flat-square" alt="Speaker" />
+  <img src="https://img.shields.io/badge/Getsethack-7th_/_22k-22d3ee?style=flat-square" alt="Getsethack" />
 </p>
 
 - **Hall of Fame** — UN, Cambridge, Indian Govt, Philips, Deutsche Telekom, Nykaa, Touch Bistro, others  
@@ -135,8 +135,8 @@ CVE-2024-7739 · CVE-2024-7738
 ## ▸ certs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-7EE787?style=flat-square" alt="ISO 27001" />
-  <img src="https://img.shields.io/badge/eJPT_v2-Junior_Pentester-7EE787?style=flat-square" alt="eJPT" />
+  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-22d3ee?style=flat-square" alt="ISO 27001" />
+  <img src="https://img.shields.io/badge/eJPT_v2-Junior_Pentester-22d3ee?style=flat-square" alt="eJPT" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="12" /></p>
