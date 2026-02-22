@@ -54,25 +54,37 @@ Automate the defense.
 
 ## ▸ work
 
-<img src="https://www.google.com/s2/favicons?domain=hackerone.com&sz=24" width="18" height="18" alt="" /> **[HackerOne](https://www.hackerone.com)**  
-Triage Intake Analyst · Mar 2025 — Present  
-<sub>bug bounty · triage · validation</sub>
+<p align="center">
+  <a href="https://www.hackerone.com"><img src="https://www.google.com/s2/favicons?domain=hackerone.com&sz=64" width="40" height="40" alt="" /></a><br/>
+  <strong><a href="https://www.hackerone.com">HackerOne</a></strong><br/>
+  <img src="https://img.shields.io/badge/Triage_Intake_Analyst-Mar_2025_--_Present-7EE787?style=flat-square" alt="role" /><br/>
+  <img src="https://img.shields.io/badge/bug_bounty-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/triage-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/validation-7EE787?style=flat-square" />
+</p>
 
-<img src="https://www.google.com/s2/favicons?domain=zeron.one&sz=24" width="18" height="18" alt="" /> **[ZERON](https://www.linkedin.com/company/securezeron)**  
-R&D Associate · Jul 2024 – Jan 2025  
-<sub>AI integrations · ASM · offsec tools</sub>  
-Security Researcher Intern · Aug 2023 – Jul 2024  
-<sub>ASM detection · pentesting</sub>  
-Intern · Apr 2023 – Jul 2023  
-<sub>pentesting · technical content</sub>
+<p align="center">
+  <a href="https://www.linkedin.com/company/securezeron"><img src="https://www.google.com/s2/favicons?domain=zeron.one&sz=64" width="40" height="40" alt="" /></a><br/>
+  <strong><a href="https://www.linkedin.com/company/securezeron">ZERON</a></strong><br/>
+  <img src="https://img.shields.io/badge/R%26D_Associate-Jul_2024_-_Jan_2025-7EE787?style=flat-square" alt="role" /><br/>
+  <img src="https://img.shields.io/badge/AI_integrations-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/ASM-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/offsec_tools-7EE787?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Security_Researcher_Intern-Aug_2023_-_Jul_2024-7EE787?style=flat-square" alt="role" /><br/>
+  <img src="https://img.shields.io/badge/ASM_detection-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/pentesting-7EE787?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Intern-Apr_2023_-_Jul_2023-7EE787?style=flat-square" alt="role" /><br/>
+  <img src="https://img.shields.io/badge/pentesting-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/technical_content-7EE787?style=flat-square" />
+</p>
 
-<img src="https://www.google.com/s2/favicons?domain=securityium.com&sz=24" width="18" height="18" alt="" /> **[Securityium](https://www.linkedin.com/company/securityium)**  
-Cybersecurity Intern · Jan 2023 – Apr 2023  
-<sub>pentesting · lab setup · automation</sub>
+<p align="center">
+  <a href="https://www.linkedin.com/company/securityium"><img src="https://www.google.com/s2/favicons?domain=securityium.com&sz=64" width="40" height="40" alt="" /></a><br/>
+  <strong><a href="https://www.linkedin.com/company/securityium">Securityium</a></strong><br/>
+  <img src="https://img.shields.io/badge/Cybersecurity_Intern-Jan_2023_-_Apr_2023-7EE787?style=flat-square" alt="role" /><br/>
+  <img src="https://img.shields.io/badge/pentesting-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/lab_setup-7EE787?style=flat-square" /> <img src="https://img.shields.io/badge/automation-7EE787?style=flat-square" />
+</p>
 
-<img src="https://www.google.com/s2/favicons?domain=virtuallytestingfoundation.org&sz=24" width="18" height="18" alt="" /> **[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
-Cybersecurity Engineer Intern · May 2022 – Jul 2022  
-<sub>security engineering</sub>
+<p align="center">
+  <a href="https://www.linkedin.com/company/virtually-testing"><img src="https://www.google.com/s2/favicons?domain=virtuallytestingfoundation.org&sz=64" width="40" height="40" alt="" /></a><br/>
+  <strong><a href="https://www.linkedin.com/company/virtually-testing">Virtually Testing Foundation</a></strong><br/>
+  <img src="https://img.shields.io/badge/Cybersecurity_Engineer_Intern-May_2022_-_Jul_2022-7EE787?style=flat-square" alt="role" /><br/>
+  <img src="https://img.shields.io/badge/security_engineering-7EE787?style=flat-square" />
+</p>
 
 ---
 
