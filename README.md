@@ -50,61 +50,33 @@ Automate the defense.
 
 ## 🏗️ ▸ Work
 
-<details>
-<summary><strong><a href="https://www.hackerone.com">HackerOne</a></strong></summary>
+**[HackerOne](https://www.hackerone.com)**  
+Triage Intake Analyst — `Mar 2025 — Present`  
+`bug bounty` `triage` `validation`
 
-<details>
-<summary><code>▸</code> Triage Intake Analyst · Mar 2025 — Present</summary>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
 
-→ bug bounty · triage · validation
+**[ZERON](https://www.linkedin.com/company/securezeron)**  
+R&D Associate — `Jul 2024 – Jan 2025`  
+`AI integrations` `ASM` `offsec tools`
 
-</details>
-</details>
+Security Researcher Intern — `Aug 2023 – Jul 2024`  
+`ASM detection` `pentesting`
 
-<details>
-<summary><strong><a href="https://www.linkedin.com/company/securezeron">ZERON</a></strong></summary>
+Intern — `Apr 2023 – Jul 2023`  
+`pentesting` `technical content`
 
-<details>
-<summary><code>▸</code> R&D Associate · Jul 2024 – Jan 2025</summary>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
 
-→ AI integrations · ASM · offsec tools
+**[Securityium](https://www.linkedin.com/company/securityium)**  
+Cybersecurity Intern — `Jan 2023 – Apr 2023`  
+`pentesting` `lab setup` `automation`
 
-</details>
-<details>
-<summary><code>▸</code> Security Researcher Intern · Aug 2023 – Jul 2024</summary>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,100:00F5FF&height=10&section=footer" width="100%" alt="" />
 
-→ ASM detection · pentesting
-
-</details>
-<details>
-<summary><code>▸</code> Intern · Apr 2023 – Jul 2023</summary>
-
-→ pentesting · technical content
-
-</details>
-</details>
-
-<details>
-<summary><strong><a href="https://www.linkedin.com/company/securityium">Securityium</a></strong></summary>
-
-<details>
-<summary><code>▸</code> Cybersecurity Intern · Jan 2023 – Apr 2023</summary>
-
-→ pentesting · lab setup · automation
-
-</details>
-</details>
-
-<details>
-<summary><strong><a href="https://www.linkedin.com/company/virtually-testing">Virtually Testing Foundation</a></strong></summary>
-
-<details>
-<summary><code>▸</code> Cybersecurity Engineer Intern · May 2022 – Jul 2022</summary>
-
-→ security engineering
-
-</details>
-</details>
+**[Virtually Testing Foundation](https://www.linkedin.com/company/virtually-testing)**  
+Cybersecurity Engineer Intern — `May 2022 – Jul 2022`  
+`security engineering`
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
