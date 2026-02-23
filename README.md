@@ -31,8 +31,6 @@
 
 <p align="center"><img src="assets/work-full.svg" width="100%" alt="Work Experience" /></p>
 
-<p align="center"><em>Links: <a href="https://www.hackerone.com">HackerOne</a> · <a href="https://www.linkedin.com/company/securezeron">ZERON</a> · <a href="https://www.linkedin.com/company/securityium">Securityium</a></em></p>
-
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
 ## ▸ Currently Working On
