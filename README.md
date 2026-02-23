@@ -29,16 +29,14 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ Work
-
 <table>
 <tr>
-<td width="55%"><img src="assets/work-section.svg" width="100%" alt="Experience" /></td>
+<td width="55%"><img src="assets/work-full.svg" width="100%" alt="Work Experience" /></td>
 <td width="45%"><img src="assets/experience-terminal.svg" width="100%" alt="Terminal cat experience" /></td>
 </tr>
 </table>
 
-<p align="center"><em>Links: <a href="https://www.hackerone.com">HackerOne</a> · <a href="https://www.linkedin.com/company/securezeron">ZERON</a> · <a href="https://www.linkedin.com/company/securityium">Securityium</a> · <a href="https://www.linkedin.com/company/virtually-testing">VTF</a></em></p>
+<p align="center"><em>Links: <a href="https://www.hackerone.com">HackerOne</a> · <a href="https://www.linkedin.com/company/securezeron">ZERON</a> · <a href="https://www.linkedin.com/company/securityium">Securityium</a></em></p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
