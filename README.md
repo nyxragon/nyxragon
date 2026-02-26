@@ -35,7 +35,7 @@
 
 ## ▸ Currently Working On
 
-<p align="center"><img src="https://raw.githubusercontent.com/nyxragon/nyxragon/main/assets/focus-full.svg" width="100%" alt="Currently working on" /></p>
+<p align="center"><img src="assets/focus-full.svg" width="100%" alt="Currently working on" /></p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
