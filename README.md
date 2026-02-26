@@ -37,16 +37,12 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-## ▸ Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxragon&theme=tokyonight&hide_border=true" width="48%" alt="Streak stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=react-dark&hide_border=true" width="48%" alt="Activity graph" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
-
-## ▸ Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nyxragon/">
