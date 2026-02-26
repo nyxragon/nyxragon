@@ -45,13 +45,7 @@
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nyxragon/">
-    <img src="https://img.shields.io/badge/LinkedIn-nyxragon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/nyxragon">
-    <img src="https://img.shields.io/badge/X-nyxragon-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/821296505817530368">
-    <img src="https://img.shields.io/badge/Discord-nyxragon-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/nyxragon/" title="LinkedIn"><img src="assets/connect-linkedin.svg" width="48" height="48" alt="LinkedIn" style="margin: 0 6px" /></a>
+  <a href="https://x.com/nyxragon" title="X"><img src="assets/connect-x.svg" width="48" height="48" alt="X" style="margin: 0 6px" /></a>
+  <a href="https://discordapp.com/users/821296505817530368" title="Discord"><img src="assets/connect-discord.svg" width="48" height="48" alt="Discord" style="margin: 0 6px" /></a>
 </p>
