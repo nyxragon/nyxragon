@@ -11,6 +11,6 @@
   </defs>
   <rect width="960" height="100" rx="12" ry="12" fill="url(#ciGrad2)" stroke="url(#ciGrad1)" stroke-width="1.5"/>
   <rect x="12" y="12" width="936" height="76" rx="8" ry="8" fill="#0d1117" stroke="#1e293b" stroke-width="0.5"/>
-  <text x="48" y="38" font-family="monospace" font-size="12" fill="#00F5FF">Want to know more about me? Check my resume or portfolio below for past work and experience.</text>
-  <text x="48" y="62" font-family="monospace" font-size="12" fill="#00F5FF">Want to collaborate, discuss ideas, or just chat? Reach out via the links below.</text>
+  <text x="48" y="40" font-family="monospace" font-size="14" fill="#00F5FF">Want to know more about me? Check my resume or portfolio below for past work and experience.</text>
+  <text x="48" y="64" font-family="monospace" font-size="14" fill="#00F5FF">Want to collaborate, discuss ideas, or just chat? Reach out via the links below.</text>
 </svg>
