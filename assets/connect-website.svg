@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Website">
+  <defs>
+    <linearGradient id="webGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00F5FF"/>
+      <stop offset="100%" style="stop-color:#A970FF"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="2s" begin="0.45s" repeatCount="indefinite"/>
+    <rect x="4" y="4" width="40" height="40" rx="10" ry="10" fill="#1e293b" stroke="url(#webGrad)" stroke-width="2"/>
+    <circle cx="24" cy="22" r="6" fill="none" stroke="url(#webGrad)" stroke-width="2"/>
+    <path d="M12 32 C12 26 36 26 36 32" fill="none" stroke="url(#webGrad)" stroke-width="2" stroke-linecap="round"/>
+    <line x1="24" y1="28" x2="24" y2="38" stroke="url(#webGrad)" stroke-width="1.5"/>
+  </g>
+</svg>
