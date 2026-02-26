@@ -1,30 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Discord">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 62" width="48" height="62" role="img" aria-label="Discord">
   <defs>
     <linearGradient id="dcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00F5FF"/>
+      <stop offset="0%" style="stop-color:#22d3ee"/>
       <stop offset="100%" style="stop-color:#A970FF"/>
     </linearGradient>
   </defs>
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-    <!-- Same 40x40 container as LinkedIn, X, Website for aligned dimensions -->
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2; 0 0" dur="2s" begin="0.4s" repeatCount="indefinite"/>
     <rect x="4" y="4" width="40" height="40" rx="10" ry="10" fill="#1e293b" stroke="url(#dcGrad)" stroke-width="2"/>
-    <!-- Clyde: bulbous body, pointed ears with notches (our gradient) -->
-    <g transform="translate(24, 22) scale(0.72) translate(-24, -22)">
-      <path d="M 24 36
-               C 10 36 4 28 4 22
-               C 4 14 10 10 14 10
-               C 12 8 10 6 12 6
-               C 14 4 18 6 20 8
-               C 22 8 24 6 24 6
-               C 26 6 28 8 30 8
-               C 32 6 36 4 38 6
-               C 36 6 34 10 34 10
-               C 38 10 44 14 44 22
-               C 44 28 38 36 24 36 Z" fill="url(#dcGrad)" stroke="url(#dcGrad)" stroke-width="0.6" stroke-linejoin="round"/>
+    <g transform="translate(24, 22) scale(0.6) translate(-24, -22)">
+      <path d="M24 36 C10 36 4 28 4 22 C4 14 10 10 14 10 C12 8 10 6 12 6 C14 4 18 6 20 8 C22 8 24 6 24 6 C26 6 28 8 30 8 C32 6 36 4 38 6 C36 6 34 10 34 10 C38 10 44 14 44 22 C44 28 38 36 24 36 Z" fill="url(#dcGrad)" stroke="url(#dcGrad)" stroke-width="0.6" stroke-linejoin="round"/>
       <circle cx="18" cy="20" r="2" fill="#0d1117"/>
       <circle cx="30" cy="20" r="2" fill="#0d1117"/>
-      <path d="M 18 26 Q 24 29 30 26" fill="none" stroke="#0d1117" stroke-width="1" stroke-linecap="round"/>
+      <path d="M18 26 Q24 29 30 26" fill="none" stroke="#0d1117" stroke-width="1" stroke-linecap="round"/>
     </g>
   </g>
+  <text x="24" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" font-weight="600" fill="#94a3b8">Discord</text>
 </svg>

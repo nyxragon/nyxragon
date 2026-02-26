@@ -39,11 +39,11 @@
 
 <p align="center"><img src="assets/connect-intro.svg" width="100%" alt="Connect" /></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nyxragon/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" style="margin: 0 6px" /></a>
-  <a href="https://x.com/nyxragon" title="X"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" alt="X" style="margin: 0 6px" /></a>
-  <a href="https://discordapp.com/users/821296505817530368" title="Discord"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" style="margin: 0 6px" /></a>
-  <a href="https://nyxragon.in" title="Portfolio"><img src="assets/connect-portfolio.svg" width="48" height="48" alt="Portfolio" style="margin: 0 6px" /></a>
-  <a href="#" title="Resume"><img src="assets/connect-resume.svg" width="48" height="48" alt="Resume" style="margin: 0 6px" /></a>
+  <a href="https://www.linkedin.com/in/nyxragon/" title="LinkedIn"><img src="assets/connect-linkedin.svg" width="48" height="62" alt="LinkedIn" style="margin: 0 8px" /></a>
+  <a href="https://x.com/nyxragon" title="X"><img src="assets/connect-x.svg" width="48" height="62" alt="X" style="margin: 0 8px" /></a>
+  <a href="https://discordapp.com/users/821296505817530368" title="Discord"><img src="assets/connect-discord.svg" width="48" height="62" alt="Discord" style="margin: 0 8px" /></a>
+  <a href="https://nyxragon.in" title="Portfolio"><img src="assets/connect-portfolio.svg" width="48" height="62" alt="Portfolio" style="margin: 0 8px" /></a>
+  <a href="#" title="Resume"><img src="assets/connect-resume.svg" width="48" height="62" alt="Resume" style="margin: 0 8px" /></a>
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
