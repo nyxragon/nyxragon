@@ -39,10 +39,10 @@
 
 <p align="center"><img src="assets/connect-intro.svg" width="100%" alt="Connect" /></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nyxragon/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/00F5FF" width="48" height="48" alt="LinkedIn" style="margin: 0 6px" /></a>
-  <a href="https://x.com/nyxragon" title="X"><img src="https://cdn.simpleicons.org/x/00F5FF" width="48" height="48" alt="X" style="margin: 0 6px" /></a>
-  <a href="https://discordapp.com/users/821296505817530368" title="Discord"><img src="https://cdn.simpleicons.org/discord/00F5FF" width="48" height="48" alt="Discord" style="margin: 0 6px" /></a>
-  <a href="https://nyxragon.in" title="Portfolio"><img src="https://cdn.simpleicons.org/globe/00F5FF" width="48" height="48" alt="Portfolio" style="margin: 0 6px" /></a>
+  <a href="https://www.linkedin.com/in/nyxragon/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" style="margin: 0 6px" /></a>
+  <a href="https://x.com/nyxragon" title="X"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" alt="X" style="margin: 0 6px" /></a>
+  <a href="https://discordapp.com/users/821296505817530368" title="Discord"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" style="margin: 0 6px" /></a>
+  <a href="https://nyxragon.in" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Portfolio" style="margin: 0 6px" /></a>
 </p>
 <p align="center">
   <a href="#" title="Resume"><img src="https://img.shields.io/badge/Resume-View-6d28d9?style=flat-square&labelColor=312e81" alt="Resume" /></a>
