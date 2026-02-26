@@ -35,22 +35,7 @@
 
 ## ▸ Currently Working On
 
-<table>
-<tr>
-<td width="55%">
-
-- researching AI abuse cases  
-- building small offensive tools  
-- exploring attack surfaces  
-- cloud security  
-- automating security workflows  
-
-> **Want to know more about me?** → [Resume](#)
-
-</td>
-<td width="45%"><img src="assets/focus-terminal.svg" width="100%" alt="Terminal cat focus" /></td>
-</tr>
-</table>
+<p align="center"><img src="assets/focus-full.svg" width="100%" alt="Currently working on" /></p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 

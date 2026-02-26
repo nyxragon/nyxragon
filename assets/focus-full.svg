@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="100%" role="img" aria-label="Currently working on">
+  <defs>
+    <linearGradient id="focusGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00F5FF"/>
+      <stop offset="100%" style="stop-color:#A970FF"/>
+    </linearGradient>
+    <linearGradient id="focusGrad2" x1="0%" y1="0%" x2="0%" y2="1">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <clipPath id="focusGifClip"><rect x="544" y="24" width="392" height="272" rx="8" ry="8"/></clipPath>
+  </defs>
+  <rect width="960" height="320" rx="12" ry="12" fill="url(#focusGrad2)" stroke="url(#focusGrad1)" stroke-width="1.5"/>
+  <rect x="12" y="12" width="936" height="296" rx="8" ry="8" fill="#0d1117" stroke="#1e293b" stroke-width="0.5"/>
+
+  <!-- Left: Currently working on content -->
+  <g transform="translate(24, 0)">
+    <text x="24" y="44" font-family="monospace" font-size="16" font-weight="700" fill="#A970FF">Currently working on</text>
+    <line x1="24" y1="58" x2="504" y2="58" stroke="#334155" stroke-width="0.5"/>
+
+    <text x="24" y="84" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
+    <text x="38" y="84" font-family="monospace" font-size="11" fill="#94a3b8">Advanced detection techniques in DLP (Data Loss Prevention)</text>
+    <text x="38" y="102" font-family="monospace" font-size="11" fill="#94a3b8">for complex transfer planes</text>
+
+    <text x="24" y="128" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
+    <text x="38" y="128" font-family="monospace" font-size="11" fill="#94a3b8">Reusing one framework's readiness to speed up the next compliance</text>
+
+    <text x="24" y="154" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
+    <text x="38" y="154" font-family="monospace" font-size="11" fill="#94a3b8">Benchmarking AI systems architecture against real-world efficacy</text>
+
+    <line x1="24" y1="178" x2="504" y2="178" stroke="#334155" stroke-width="0.5"/>
+    <text x="24" y="198" font-family="monospace" font-size="10" fill="#64748b">Want to know more? ’ Resume</text>
+  </g>
+
+  <!-- Right: space for image / GIF -->
+  <g id="focus-gif-placeholder" clip-path="url(#focusGifClip)">
+    <rect x="544" y="24" width="392" height="272" rx="8" ry="8" fill="#0f172a" stroke="#334155" stroke-width="1" stroke-dasharray="4 2"/>
+  </g>
+</svg>
