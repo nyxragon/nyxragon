@@ -37,14 +37,13 @@
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
-<p align="center"><img src="assets/connect-intro.svg" width="100%" alt="Connect intro" /></p>
+<p align="center"><img src="assets/connect-intro.svg" width="100%" alt="Connect" /></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nyxragon/" title="LinkedIn"><img src="assets/connect-linkedin.svg" width="48" height="48" alt="LinkedIn" style="margin: 0 6px" /></a>
   <a href="https://x.com/nyxragon" title="X"><img src="assets/connect-x.svg" width="48" height="48" alt="X" style="margin: 0 6px" /></a>
   <a href="https://discordapp.com/users/821296505817530368" title="Discord"><img src="assets/connect-discord.svg" width="48" height="48" alt="Discord" style="margin: 0 6px" /></a>
   <a href="https://nyxragon.in" title="Website"><img src="assets/connect-website.svg" width="48" height="48" alt="Website" style="margin: 0 6px" /></a>
 </p>
-<p align="center"><img src="assets/connect-more.svg" width="100%" alt="To know more about me" /></p>
 <p align="center">
   <a href="#" title="Resume"><img src="https://img.shields.io/badge/Resume-View-6d28d9?style=flat-square&labelColor=312e81" alt="Resume" /></a>
   <a href="https://nyxragon.in" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-View-6d28d9?style=flat-square&labelColor=312e81" alt="Portfolio" /></a>
