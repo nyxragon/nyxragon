@@ -6,7 +6,7 @@
     </linearGradient>
   </defs>
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2; 0 0" dur="2s" begin="0.2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2s" begin="0.2s" repeatCount="indefinite"/>
     <rect x="4" y="4" width="40" height="40" rx="10" ry="10" fill="#1e293b" stroke="url(#xGrad)" stroke-width="2"/>
     <path d="M16 16 L32 32 M32 16 L16 32" stroke="url(#xGrad)" stroke-width="3" stroke-linecap="round"/>
   </g>
