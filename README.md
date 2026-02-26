@@ -46,7 +46,7 @@
 </p>
 <p align="center">
   <a href="#" title="Resume"><img src="https://img.shields.io/badge/Resume-View-6d28d9?style=flat-square&labelColor=312e81" alt="Resume" /></a>
-  <a href="https://nyxragon.in" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-View-6d28d9?style=flat-square&labelColor=312e81" alt="Portfolio" /></a>
+  <a href="https://nyxragon.in" title="Portfolio"><img src="assets/connect-website.svg" width="48" height="48" alt="Portfolio" style="margin: 0 6px" /></a>
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
