@@ -13,5 +13,5 @@
     <ellipse cx="24" cy="24" rx="10" ry="3.5" fill="none" stroke="url(#pfGrad)" stroke-width="1.4"/>
     <path d="M 14 24 Q 24 20 34 24 Q 24 28 14 24" fill="none" stroke="url(#pfGrad)" stroke-width="1.4"/>
   </g>
-  <text x="24" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" font-weight="600" fill="#94a3b8">Portfolio</text>
+  <text x="24" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" font-weight="600" fill="url(#pfGrad)" style="letter-spacing:0.04em">Portfolio</text>
 </svg>
