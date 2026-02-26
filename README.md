@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/nyxragon/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" style="margin: 0 6px" /></a>
   <a href="https://x.com/nyxragon" title="X"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" alt="X" style="margin: 0 6px" /></a>
   <a href="https://discordapp.com/users/821296505817530368" title="Discord"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" style="margin: 0 6px" /></a>
-  <a href="https://nyxragon.in" title="Portfolio"><img src="assets/connect-website.svg" width="48" height="48" alt="Portfolio" style="margin: 0 6px" /></a>
+  <a href="https://nyxragon.in" title="Portfolio"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe.svg" width="48" height="48" alt="Portfolio" style="margin: 0 6px" /></a>
   <a href="#" title="Resume"><img src="https://api.iconify.design/mdi/file-document-outline.svg?width=48&amp;height=48&amp;color=%2394a3b8" width="48" height="48" alt="Resume" style="margin: 0 6px" /></a>
 </p>
 
