@@ -23,10 +23,12 @@
     <text x="38" y="102" font-family="monospace" font-size="11" fill="#00F5FF">for complex transfer planes</text>
 
     <text x="24" y="128" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="128" font-family="monospace" font-size="11" fill="#00F5FF">Reusing one framework's readiness to speed up the next compliance</text>
+    <text x="38" y="128" font-family="monospace" font-size="11" fill="#00F5FF">Leveraging readiness from one compliance framework to accelerate</text>
+    <text x="38" y="146" font-family="monospace" font-size="11" fill="#00F5FF">adaptability into the next</text>
 
-    <text x="24" y="154" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="154" font-family="monospace" font-size="11" fill="#00F5FF">Benchmarking AI systems architecture against real-world efficacy</text>
+    <text x="24" y="172" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
+    <text x="38" y="172" font-family="monospace" font-size="11" fill="#00F5FF">Evaluating AI benchmark performance against real-world</text>
+    <text x="38" y="190" font-family="monospace" font-size="11" fill="#00F5FF">practical scenarios</text>
   </g>
 
   <!-- Right: currently.gif (embedded) -->
