@@ -23,16 +23,17 @@
   <!-- Left: whoami content (cyan + purple hierarchy) -->
   <text x="48" y="54" font-family="monospace" font-size="14" font-weight="600" fill="#7C5CFF" style="letter-spacing:0.12em">whoami</text>
   <text x="48" y="90" font-family="monospace" font-size="28" font-weight="700" fill="#00F5FF">nyxragon</text>
-  <text x="48" y="118" font-family="monospace" font-size="14" fill="#A970FF">security researcher</text>
-  <text x="48" y="158" font-family="monospace" font-size="13" fill="#7C5CFF">I work at the intersection of</text>
-  <text x="64" y="184" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="184" font-family="monospace" font-size="11" fill="#6FFBFF">AI Red Teaming | Secure LLM Deployment</text>
-  <text x="64" y="202" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="202" font-family="monospace" font-size="11" fill="#6FFBFF">Attack Surface Management</text>
-  <text x="64" y="220" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="220" font-family="monospace" font-size="11" fill="#6FFBFF">Cloud Security</text>
-  <text x="64" y="238" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="238" font-family="monospace" font-size="11" fill="#6FFBFF">Detection Engineering &amp; Offensive Tooling</text>
-  <text x="64" y="256" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="256" font-family="monospace" font-size="11" fill="#6FFBFF">Integrating AI into Security Pipelines</text>
-  <g transform="translate(48, 288)" filter="url(#glow)">
+  <rect x="48" y="100" width="156" height="2" rx="1" fill="url(#wg1)"/>
+  <text x="48" y="122" font-family="monospace" font-size="13" fill="#A970FF">intelligence-driven security researcher</text>
+  <text x="48" y="160" font-family="monospace" font-size="13" fill="url(#wg1)" filter="url(#glow)">I work at the intersection of</text>
+  <text x="64" y="186" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="186" font-family="monospace" font-size="11" fill="#6FFBFF">OSINT + AI &#x2014; intelligence-driven research</text>
+  <text x="64" y="204" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="204" font-family="monospace" font-size="11" fill="#6FFBFF">AI Red Teaming | Secure LLM Deployment</text>
+  <text x="64" y="222" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="222" font-family="monospace" font-size="11" fill="#6FFBFF">Attack Surface Management &amp; Cloud Security</text>
+  <text x="64" y="240" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="240" font-family="monospace" font-size="11" fill="#6FFBFF">Agentic Offensive &amp; Defensive Tooling</text>
+  <text x="64" y="258" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="258" font-family="monospace" font-size="11" fill="#6FFBFF">Builds &amp; teaches in public</text>
+  <g transform="translate(48, 290)" filter="url(#glow)">
     <text x="0" y="0" font-family="monospace" font-size="12" font-weight="600" fill="#00F5FF">
-      Build Things &#x2192; Break Things &#x2192; Automate Offense &amp; Defense
+      Investigate &#x2192; Build &#x2192; Break &#x2192; Automate
       <animate attributeName="opacity" dur="3s" repeatCount="indefinite" values="1;0.7;1"/>
     </text>
   </g>
