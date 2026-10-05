@@ -23,13 +23,13 @@
     <line x1="24" y1="58" x2="504" y2="58" stroke="#334155" stroke-width="0.5"/>
 
     <text x="24" y="98" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="98" font-family="monospace" font-size="11" fill="#00F5FF">Building autonomous detection systems</text>
+    <text x="38" y="98" font-family="monospace" font-size="11" fill="#00F5FF">Attack-surface detection capabilities</text>
 
     <text x="24" y="150" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="150" font-family="monospace" font-size="11" fill="#00F5FF">Automating OSINT end to end</text>
+    <text x="38" y="150" font-family="monospace" font-size="11" fill="#00F5FF">OSINT analysis layer</text>
 
     <text x="24" y="202" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="202" font-family="monospace" font-size="11" fill="#00F5FF">HUMINT research &#x2014; tech + psychology</text>
+    <text x="38" y="202" font-family="monospace" font-size="11" fill="#00F5FF">OPSEC Mirror &#x2014; minimizing red-team trace</text>
   </g>
 
   <!-- Right: currently.gif (embedded) -->
