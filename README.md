@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,kali,aws,docker,kubernetes,nginx,terraform,ai,python,go,bash,fastapi,git,postgres,redis,postman,vscode&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=kali,arch,linux,bash,aws,docker,kubernetes,terraform,nginx,python,go,fastapi,redis,postgres,ai,git,postman,vscode&theme=dark&perline=9" />
 </p>
 
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
@@ -49,6 +49,10 @@
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nyxragon&theme=tokyonight&hide_border=true" width="48%" alt="Streak stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxragon&theme=react-dark&hide_border=true" width="48%" alt="Activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00F5FF&icon_color=A970FF&text_color=C9D1D9&bg_color=0D1117" width="49%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=nyxragon&hide_border=true&background=0D1117&stroke=1E293B&ring=A970FF&fire=00F5FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F5FF&sideLabels=A970FF&dates=5B6B7F" width="49%" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxragon&layout=compact&hide_border=true&langs_count=8&title_color=00F5FF&text_color=C9D1D9&bg_color=0D1117" width="40%" alt="Most used languages" />
 </p>
