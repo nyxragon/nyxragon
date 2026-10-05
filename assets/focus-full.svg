@@ -22,17 +22,14 @@
     <text x="24" y="44" font-family="monospace" font-size="16" font-weight="700" fill="url(#focusGrad1)" filter="url(#focusGlow)">Currently working on</text>
     <line x1="24" y1="58" x2="504" y2="58" stroke="#334155" stroke-width="0.5"/>
 
-    <text x="24" y="84" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="84" font-family="monospace" font-size="11" fill="#00F5FF">Agentic OSINT &#x2014; a reasoning layer over collectors</text>
-    <text x="38" y="102" font-family="monospace" font-size="11" fill="#5B6B7F">plan &#x2192; correlate &#x2192; calibrated confidence &#x2192; cited output</text>
+    <text x="24" y="98" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
+    <text x="38" y="98" font-family="monospace" font-size="11" fill="#00F5FF">Building autonomous detection systems</text>
 
-    <text x="24" y="128" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="128" font-family="monospace" font-size="11" fill="#00F5FF">Defensive counter-OSINT &#x2014; helping people shrink</text>
-    <text x="38" y="146" font-family="monospace" font-size="11" fill="#5B6B7F">their own exposure footprint</text>
+    <text x="24" y="150" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
+    <text x="38" y="150" font-family="monospace" font-size="11" fill="#00F5FF">Automating OSINT end to end</text>
 
-    <text x="24" y="172" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
-    <text x="38" y="172" font-family="monospace" font-size="11" fill="#00F5FF">Measuring AI agents honestly &#x2014; hallucination rate,</text>
-    <text x="38" y="190" font-family="monospace" font-size="11" fill="#5B6B7F">provenance &amp; calibration over demo-ware</text>
+    <text x="24" y="202" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text>
+    <text x="38" y="202" font-family="monospace" font-size="11" fill="#00F5FF">HUMINT research &#x2014; tech + psychology</text>
   </g>
 
   <!-- Right: currently.gif (embedded) -->

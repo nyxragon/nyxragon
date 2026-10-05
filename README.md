@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=a78bfa&background=0D111700&center=true&vCenter=true&width=600&lines=Abhijeet+Ingle;Intelligence-Driven+Security+Researcher;OSINT+%2B+AI;AI+Red+Teaming;Attack+Surface+Management;Offensive+Tool+Development;Cloud+Security;Investigate+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Automate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=a78bfa&background=0D111700&center=true&vCenter=true&width=600&lines=Abhijeet+Ingle;Security+Researcher;Autonomous+Detection;OSINT+Automation;HUMINT+Research" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 <p align="center"><img src="assets/glow-line.svg" alt="" width="100%" height="4" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00F5FF&icon_color=A970FF&text_color=C9D1D9&bg_color=0D1117" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxragon&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=00F5FF&icon_color=A970FF&text_color=C9D1D9&bg_color=0D1117" width="49%" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=nyxragon&hide_border=true&background=0D1117&stroke=1E293B&ring=A970FF&fire=00F5FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F5FF&sideLabels=A970FF&dates=5B6B7F" width="49%" alt="Contribution streak" />
 </p>
 

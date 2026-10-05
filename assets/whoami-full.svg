@@ -24,19 +24,12 @@
   <text x="48" y="54" font-family="monospace" font-size="14" font-weight="600" fill="#7C5CFF" style="letter-spacing:0.12em">whoami</text>
   <text x="48" y="90" font-family="monospace" font-size="28" font-weight="700" fill="#00F5FF">nyxragon</text>
   <rect x="48" y="100" width="156" height="2" rx="1" fill="url(#wg1)"/>
-  <text x="48" y="122" font-family="monospace" font-size="13" fill="#A970FF">intelligence-driven security researcher</text>
-  <text x="48" y="160" font-family="monospace" font-size="13" fill="url(#wg1)" filter="url(#glow)">I work at the intersection of</text>
-  <text x="64" y="186" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="186" font-family="monospace" font-size="11" fill="#6FFBFF">OSINT + AI &#x2014; intelligence-driven research</text>
-  <text x="64" y="204" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="204" font-family="monospace" font-size="11" fill="#6FFBFF">AI Red Teaming | Secure LLM Deployment</text>
-  <text x="64" y="222" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="222" font-family="monospace" font-size="11" fill="#6FFBFF">Attack Surface Management &amp; Cloud Security</text>
-  <text x="64" y="240" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="240" font-family="monospace" font-size="11" fill="#6FFBFF">Agentic Offensive &amp; Defensive Tooling</text>
-  <text x="64" y="258" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="258" font-family="monospace" font-size="11" fill="#6FFBFF">Builds &amp; teaches in public</text>
-  <g transform="translate(48, 290)" filter="url(#glow)">
-    <text x="0" y="0" font-family="monospace" font-size="12" font-weight="600" fill="#00F5FF">
-      Investigate &#x2192; Build &#x2192; Break &#x2192; Automate
-      <animate attributeName="opacity" dur="3s" repeatCount="indefinite" values="1;0.7;1"/>
-    </text>
-  </g>
+  <text x="48" y="122" font-family="monospace" font-size="13" fill="#A970FF">security researcher</text>
+  <text x="48" y="160" font-family="monospace" font-size="13" fill="url(#wg1)" filter="url(#glow)">what i work on</text>
+  <text x="64" y="188" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="188" font-family="monospace" font-size="11" fill="#6FFBFF">Autonomous detection systems</text>
+  <text x="64" y="212" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="212" font-family="monospace" font-size="11" fill="#6FFBFF">OSINT automation</text>
+  <text x="64" y="236" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="236" font-family="monospace" font-size="11" fill="#6FFBFF">OSINT &amp; HUMINT research</text>
+  <text x="64" y="260" font-family="monospace" font-size="11" fill="#A970FF">&#x25B8;</text><text x="78" y="260" font-family="monospace" font-size="11" fill="#6FFBFF">Human intel: tech + psychology</text>
 
   <!-- Right: GIF inside the card (same SVG) -->
   <g transform="translate(520, 24)" clip-path="url(#imgClip)">
